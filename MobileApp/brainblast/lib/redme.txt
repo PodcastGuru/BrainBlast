@@ -1,0 +1,226 @@
+✅ Step 1: Install Flutter on macOS (If Not Installed)
+If Flutter is not installed on your macOS system, follow these steps:
+
+1. Install Homebrew (if not installed)
+Open Terminal and run:
+
+sh
+Copy
+Edit
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+Verify the installation by running:
+
+sh
+Copy
+Edit
+brew --version
+2. Install Flutter Using Homebrew
+Run the following command:
+
+sh
+Copy
+Edit
+brew install flutter
+3. Verify Flutter Installation
+Once the installation is complete, check if Flutter is installed correctly:
+
+sh
+Copy
+Edit
+flutter doctor
+If any issues appear, follow the recommended fixes in the output.
+
+4. Add Flutter to PATH (If Required)
+If Flutter is not recognized, manually add it to your system path:
+
+sh
+Copy
+Edit
+export PATH="$PATH:`flutter/bin`"
+To make this permanent, add the above line to ~/.zshrc or ~/.bash_profile.
+
+5. Install Xcode (Required for macOS & iOS Development)
+sh
+Copy
+Edit
+xcode-select --install
+Then, open the App Store, search for Xcode, and install it.
+
+After installation, run:
+
+sh
+Copy
+Edit
+sudo xcodebuild -runFirstLaunch
+6. Enable macOS Desktop Support in Flutter
+sh
+Copy
+Edit
+flutter config --enable-macos-desktop
+✅ Flutter is now installed on macOS! You can proceed to the next steps to run your multiplayer game. 🚀   
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+✅ Step 2: Project Setup on macOS
+After installing Flutter, you need to set up your Flutter multiplayer game project. Follow these steps carefully:
+
+1️⃣ Clone or Extract the Project Files
+If your project is on GitHub, open Terminal and run:
+
+sh
+Copy
+Edit
+git clone <YOUR_GITHUB_REPO_LINK>
+cd <YOUR_PROJECT_FOLDER>
+If you have a ZIP file, extract it to a folder and navigate to it in Terminal:
+
+sh
+Copy
+Edit
+cd <YOUR_PROJECT_FOLDER>
+2️⃣ Install Flutter Dependencies
+Run the following command inside your project folder:
+
+sh
+Copy
+Edit
+flutter pub get
+This installs all required dependencies from pubspec.yaml.
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+✅ Step 3: Run the Flutter Multiplayer Game on Multiple iOS Simulators
+To test your Flutter multiplayer game on multiple iOS simulators, follow these steps:
+
+1️⃣ Ensure Xcode & CocoaPods Are Installed
+Since iOS apps require Xcode and CocoaPods, run:
+
+sh
+Copy
+Edit
+sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+sudo xcodebuild -runFirstLaunch
+sudo gem install cocoapods
+Verify Xcode is installed:
+
+sh
+Copy
+Edit
+xcodebuild -version
+2️⃣ Open Multiple iOS Simulators
+To list available simulators, run:
+
+sh
+Copy
+Edit
+xcrun simctl list devices
+To boot multiple devices (replace DEVICE_ID with actual IDs from the list):
+
+sh
+Copy
+Edit
+xcrun simctl boot "iPhone 14"
+xcrun simctl boot "iPhone 13"
+Alternatively, open Xcode > Window > Devices and Simulators, then manually start multiple simulators.
+
+3️⃣ Run the Flutter App on Multiple iOS Simulators
+Run this command to list available devices:
+
+sh
+Copy
+Edit
+flutter devices
+To launch the app on a specific simulator (e.g., iPhone 14):
+
+sh
+Copy
+Edit
+flutter run -d "iPhone 14"
+To run on multiple simulators, open separate Terminal windows and run:
+
+sh
+Copy
+Edit
+flutter run -d "iPhone 14"
+sh
+Copy
+Edit
+flutter run -d "iPhone 13"
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+✅ Step 4: Running the Multiplayer Game with Multiple Users on iOS Simulators
+After setting up and running your Flutter multiplayer game on multiple iOS simulators, follow these steps to test user login, game creation, and gameplay.
+
+1️⃣ Launch Multiple iOS Simulators
+Open multiple simulators using Terminal:
+
+sh
+Copy
+Edit
+xcrun simctl boot "iPhone 14"
+xcrun simctl boot "iPhone 13"
+Or open Xcode → Window → Devices and Simulators → Manually start multiple simulators.
+
+2️⃣ Run the Flutter App on Each Simulator
+In separate Terminal windows, run:
+
+sh
+Copy
+Edit
+flutter run -d "iPhone 14"
+sh
+Copy
+Edit
+flutter run -d "iPhone 13"
+This launches the game on both devices.
+
+3️⃣ User Login on Each Device
+Open the app on each simulator.
+
+On Simulator 1 (iPhone 14) → Login with User 1 (e.g., user1@example.com).
+
+On Simulator 2 (iPhone 13) → Login with User 2 (e.g., user2@example.com).
+
+Ensure both users successfully log in and navigate to the game lobby.
+
+✅ If using Firebase Authentication, check the Firebase Console → Authentication to verify logged-in users.
+
+4️⃣ Creating and Joining a Game
+Simulator 1 (User 1) creates a game:
+
+Click "Create Game"
+
+A unique game code is generated.
+
+Wait in the game lobby.
+
+Simulator 2 (User 2) joins the game:
+
+Enter the game code shared by User 1.
+
+Click "Join Game".
+
+Wait for the game to start.
+
+✅ If using Firebase Realtime Database or Firestore, check that the game session is created in the database.
+
+5️⃣ Answering Questions in Multiplayer Mode
+Once all players have joined, the host (User 1) starts the game.
+
+The first quiz question appears for both users.
+
+Users select their answers and submit.
+
+The system processes responses and updates scores.
+
+Repeat for the remaining questions.
+
+✅ Check real-time updates in Firebase Database or the backend to verify game logic.
+
+6️⃣ Ending the Game & Viewing Results
