@@ -1,0 +1,1538 @@
+ID,Skill,Tags,Question,IMG URL,Difficulty ,A,B,C,D,Correct Answer,Formal Answer Explanation,Step-by-Step Answer Explanation Link
+ALG001,System of linear equations,,"Liam and Emma bought books and notebooks from a stationery store. The price of each book was the same, and the price of each notebook was also the same. Liam purchased 6 books and 3 notebooks for $138, while Emma purchased 5 books and 7 notebooks for $250. Which of the following systems of linear equations represents this situation, if 𝑥 represents the price, in dollars, of each book and 𝑦 represents the price, in dollars, of each notebook?",,Easy,"6𝑥+3𝑦=138 
+5𝑥+7𝑦=250
+","6𝑥+5𝑦=138 
+3𝑥+7𝑦=250
+","6𝑥+3𝑦=250 
+5𝑥+7𝑦=138 
+","6𝑥+5𝑦=250 
+3𝑥+7𝑦=138 
+",A,"Choice A is correct. Liam purchased 6 books, each costing x dollars, for a total of 6x dollars. He also bought 3 notebooks, each costing y dollars, for a total of 3y dollars. Thus, the total amount Liam spent can be represented by 6x+3y=138. Similarly, Emma purchased 5 books at x dollars each and 7 notebooks at y dollars each, for a total of 5x+7y=250.
+
+Choice B is incorrect and may result from switching the number of books Emma purchased with the number of notebooks Liam purchased. 
+Choice C is incorrect and may result from swapping the total prices spent by Liam and Emma. 
+Choice D is incorrect and may result from both swapping the total prices spent and switching the number of books Emma purchased with the number of notebooks Liam purchased.
+
+",Copy of Algebra: 2-Variable Linear Equations
+ALG002,System of linear equations,,"8q=24,  p-7q=-5 The solution to the given system of equations is (p,q). What is the value of p+q ?",,Easy,-29,-19,19,29,C,"Choice C is correct. Adding the second equation of the given system to the first equation yields 8q+(p-7q)=24+(-5), which is equivalent to p+q=19. So the value of p+q is 19 . 
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect. This is the value of -(p+q).
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+",Copy of Algebra: 1-Variable Linear Equations
+ALG003,System of linear equations,,"b=8a+16, b=40 What is the solution (a,b) to the system of equations?",,Easy,"(3,40)","(16,40)","(40,3)","(40,16)",A,"Choice A is correct. The second equation in the given system is b=40. Substituting 40 for b in the first equation yields 40=8a+16. Subtracting 16 from both sides of this equation gives 24=8a. Dividing both sides by 8 yields a=3. Therefore, the solution (a,b) to the given system of equations is (3,40).
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect. This represents the solution (b,a), not (a,b), for the given system of equations.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG004,System of linear equations,,"A concert venue sells two types of tickets. The general ticket, for basic admission, costs $7. The VIP ticket, which includes admission and access to a backstage tour, costs $15. One Friday, the venue sold a total of 300 tickets and collected a total of $3,500 from ticket sales. Which of the following systems of equations can be used to find the number of general tickets g, and VIP tickets v, sold on that Friday?",,Easy,"g+v=300
+7g+15v=3,500 
+","g+v=300
+15g+7v=3,500
+","7g+15v=300
+g+v=3,500
+","15g+7v=300
+g+v=3,500
+",A,"Choice A is correct. It is given that the concert venue sells two types of tickets, general and VIP, and that g represents the number of general tickets sold and v represents the number of VIP tickets sold. It is also given that the venue sold 300 tickets on one Friday; thus, g+v=300. Additionally, the cost per general ticket is $7, and the cost per VIP ticket is $15. Thus, the amount collected from ticket sales can be represented as 7g for general tickets and 15v for VIP tickets. The total revenue collected is $3,500, leading to the equation 7g+15v=3,500. These two equations are correctly represented in choice A.
+
+Choice B is incorrect. The second equation in this system incorrectly assigns the cost per general ticket as $15 and the cost per VIP ticket as $7.
+Choices C and D are incorrect. The equations represent the total revenue collected from ticket sales as $300 instead of $3,500, and the total number of tickets sold as $3,500 instead of $300. Additionally, the first equation in choice D incorrectly assigns the cost per general ticket as $15 and the cost per VIP ticket as $7.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG005,System of linear equations,,"a=12  b=a-8  The solution to the system is (a,b). What is the value of b ?",,Easy,4,8,12,20,A,"
+Choice A is correct. According to the first equation in the given system, a=12. Substituting 12 for a in the second equation yields b=12-8, or b=4.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect. This is the value of a, not b.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+
+",Copy of Algebra: 1-Variable Linear Equations
+ALG006,System of linear equations,,"m-n=30 and 7n=m What is the solution (m,n) to the system of equations?",,Easy,"(35, 5)","(36, 6)","(34, 4)","(30, 0)",A,"Choice A is correct. The second equation in the given system defines the value of m as 7n. Substituting 7n for m into the first equation yields 7n-n=30, or 6n=30. Dividing each side of this equation by 6 yields n=5. Substituting 5 for n in the second equation yields 7(5)=m or m=35. Therefore, the solution ( m,n ) to the given system of equations is (35,5).
+
+Choice B is incorrect. Substituting 36 for m and 6 for n in the second equation yields 7(6)=36, which is not true. Therefore, (36,6) is not a solution to the given system of equations.
+
+Choice C is incorrect. Substituting 34 for m and 4 for n in the second equation yields 7(4)=34, which is not true. Therefore, (34,4) is not a solution to the given system of equations.
+
+Choice D is incorrect. Substituting 30 for m and 0 for n in the second equation yields 7(0)=30, which is not true. Therefore, (30,0) is not a solution to the given system of equations.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG007,System of linear equations,,"a=28 and b=a-12  The solution to the given system of equations is (a,b). What is the value of b ?",,Easy,2.3,28,12,16,D,"Choice D is correct. It's given by the first equation in the system of equations that a=28. Substituting 28 for a in the second equation in the given system yields b=28-12, or b=16. Therefore, the value of b is 16.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect. This is the value of a, not the value of b.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG008,System of linear equations,,"n=3m-5 
+m=6 
+
+What is the solution (m,n) to the given system of equations?
+",,Easy,"(6, 18)","(6, 13)","(5, 10)","(5, 20)",B,"Choice B is correct. Since it's given that m=6, substituting 6 for m in the first equation yields n= 3(6)-5. Simplifying the right-hand side of this equation yields n=18-5, or n=13. Therefore, the ordered pair (6,13) is a solution to the given system of equations.
+
+Choice A is incorrect and may result from a calculation error when substituting 6 for m in the first equation. 
+Choices C and D are incorrect. Because it's given that m=6, m cannot equal 5 as stated in these ordered pairs.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG009,System of linear equations,,"6c+2d=31, -5c-d=-11 The solution to the given system of equations is (c,d). What is the value of c+d ?",,Easy,-42,-20,20,-42,C,"Choice C is correct. It's given that 6c+2d=31 and -5c-d=-11 is a system of equations with a solution (c,d). Adding the second equation in the given system to the first equation yields:
+6c+2d+(-5c-d)=31+(-11), which simplifies to c+d=20. Thus, the value of c+d is 20 .
+
+Choice A is incorrect. This represents the value of -2(c+d)-2.
+
+Choice B is incorrect. This represents the value of -(c+d).
+
+Choice D is incorrect. This represents the value of 2(c+d)+2.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG010,System of linear equations,,"t=7s+13
+t=34 What is the solution (s,t) to the given system of equations?
+",,Easy,"(7,34)","(3,34)","(34,7)","(34,3)",B,"Choice B is correct. It's given by the second equation in the system that t=34. Substituting 34 for t in the first equation yields 34=7s+13  Subtracting 13 from both sides of this equation gives 21=7s  Dividing both sides of this equation by 7 yields s=3. Therefore, since s=3 and t=34, the solution (s,t) to the given system of equations is (3,34).
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG011,System of linear equations,,"-3p+2q=7.7
+3p+4q=6.3
+
+If the system of equations above is satisfied by (p,q), what is the value of q ?
+",,Hard,-91/90,3/7,5/3,7/3,D,"The correct answer is D. One method for solving the system of equations for q is to add corresponding sides of the two equations. Adding the left-hand sides gives (-3p+2q)+(3p+4q), or 6q. Adding the right-hand sides yields 7.7+6.3=14. It follows that 6q=14. Finally, dividing both sides of 6q=14 by 6 yields q=14/6 or 7/3.
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG012,System of linear equations,,"7/2 n-1/2m=3/4-3/2 n, 3/4 m+1/4-m/2=kn+9/4 
+
+In the given system of equations, k is a constant. If the system has no solution, what is the value of k ?
+",,Hard,-10,2/5,2,5/2,D,"
+The correct answer is D. A system of two linear equations in two variables, m and n, has no solution if the lines represented by the equations in the mn-plane are parallel and distinct. Lines represented by equations in standard form, Am+Bn=C and Dm+En=F, are parallel if the coefficients for m and n in one equation are proportional to the corresponding coefficients in the other equation, meaning D/A=E/B; and the lines are distinct if the constants are not proportional, meaning F/C is not equal to D/A or E/B. The first equation in the given system is: 7/2 n- 1/2m=3/4-3/2 n Multiplying each side of this equation by 8 yields:
+28n-4m=6-12n Adding 12n to each side of this equation yields, 40n-4m=6, or -2m+20n=3 The second equation in the given system is: 3/4 m+1/4-m/2=kn+13/4 Multiplying each side of this equation by 4 yields: 3m+1-2m=4kn+13 or m+1=4kn+13 Subtracting 4kn from each side of this equation yields: m+1-4kn=13  Subtracting 1 from each side of this equation yields: m-4kn=12  Therefore, the two equations in the given system, written in standard form, are: -2m+20n=3 and m-4kn=12  As previously stated, if this system has no solution, the lines represented by the equations in the mn -plane are parallel and distinct, meaning the proportion: 1/(-2)=(-4k)/20, or -1/2=(-k)/5, is true, and the proportion 12/3=1/(-2) is not true. The proportion 12/3=1/(-2) is not true. Multiplying each side of the true proportion, -1/2=(-k)/5, by -5 yields, 5/2=k  Therefore, if the system has no solution, then the value of k is 5/2. 
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG013,System of linear equations,,"px+2qy=83 and 14x+4qy=70
+
+In the given system of equations, p and q are constants. The graphs of these equations in the xy-plane intersect at the point (4,y). What is the value of p?
+",,Hard,-19,-5,5,19,D,"
+Choice D is correct. It's given that the graphs of the given system of equations intersect at the point (4,y). Therefore, (4,y) is the solution to the given system. Multiplying the first equation in the given system by -2 yields -2px-4qy=-166. Adding this equation to the second equation in the system gives (-2p+14)x+(-4q+4q)y=(-166+70), or (-2p+14)x=-96.
+Since (4,y) is the solution to the system, the value of p can be found by substituting 4 for x in this equation, which yields (-2p+14)(4)=-96. Dividing both sides of this equation by 4 yields -2p+14=-24. Subtracting 14 from both sides gives -2p=-38.
+Dividing both sides by -2 yields p=19.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG014,System of linear equations,,The system of equations -9p+18q=24 and -3p+6q=-8 is given. How many solutions does the system have?,,Hard,Exactly one,Exactly two,Infinitely many,Zero,D,"
+Choice D is correct. A system of two linear equations in two variables, p and q, has zero solutions if the lines representing the equations in the pq-plane are distinct and parallel. Two lines are distinct and parallel if they have the same slope but different q-intercepts. Each equation in the system can be written in slope-intercept form q=mp+b, where m is the slope of the line, and (0,b) is the q-intercept. Adding 9p to both sides of the first equation, -9p+18q=24, gives 18q=9p+24. Dividing both sides by 18 yields q=9/18 p+24/18 or  q=1/2 p+4/3. This shows the first equation has a slope of 1/2 and a q -intercept of (0,4/3). Adding 3p to both sides of the second equation, -3p+6q=-8, gives 6q=3p-8. Dividing both sides by 6 yields q=3/6 p-8/6 or q=1/2 p-4/3 . This shows the second equation also has a slope of 1/2 but a q intercept of (0,-4/3). Since the slopes are the same but the q-intercepts are different, the lines are distinct and parallel, and the system has zero solutions.
+
+Alternate approach: To solve the system by elimination, multiply the second equation, -3p+6q=-8, by -3 , yielding 9p-18q=24. Adding this equation to the first equation, -9p+18q=24, gives, (-9p+9p)+(-18q+18q)=24+24, or 0=48, which is a contradiction. Since this equation isn't true, the given system of equations has zero solutions.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG015,System of linear equations,,"30p-54q=26q+37 and sq=1/5-6p
+
+In the given system of equations, s is a constant. If the system has no solution, what is the value of s ?
+",,Hard,-16,-6,16,400,A,"The correct answer is A . A system of two linear equations in two variables, p and q, has no solution if the lines represented by the equations in the pq-plane are distinct and parallel. The graphs of two lines in the pq-plane represented by equations in the form Ap+Bq=C, where A,B, and C are constants, are parallel if the coefficients of p and q in one equation are proportional to the corresponding coefficients in the other equation. The first equation in the system, 30p-54q=26q+37, can be rewritten in the form Ap+ Bq=C by subtracting 26q from both sides, yielding 30p-80q=37. The second equation, sq=1/5-6p, can also be rewritten. Adding 6p to both sides yields 6p+ sq=1/5. Now compare the coefficients of p and q for the two equations. The coefficient of p in the second equation is 1/5 of the coefficient of p in the first equation because 30×1/5=6. For the lines to be parallel, the coefficient of q in the second equation must also be 1/5 of the coefficient of q in the first equation. Therefore, -80×1/5=s, or s=-16. Thus, if the given system has no solution, the value of s is -16.
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG016,System of linear equations,,"The given system of equations is 5m-15n=10n+25 and kn=1/5+m, where k is a constant. If the system has no solution, what is the value of k ?",,Hard,-5,1/5,5,125,C,"The correct answer is C . The given system of equations can be solved using the elimination method. Multiplying both sides of the second equation in the system by -5 yields -5kn=-1-5m, or -1-5m=-5kn. Adding this equation to the first equation, 5m-15n=10n+25, gives: (5m-15n)+(-1-5m)=(10n+25)+(-5kn), or -1-15n=10n-5kn+25. Subtracting 10n from both sides gives:
+(-1-15n)-10n=(10n-5kn+25)-10n or -1-25n=-5kn+25. If the system has no solution, then the equation -1-25n=-5kn+25 must have no solution. For this to happen, the coefficients of n on each side of the equation, -25 and -5k, must be equal. This gives the equation -25=-5k. Dividing both sides by -5 yields k=5.
+
+Alternate Approach:
+A system of two linear equations in two variables, m and n, has no solution if the lines represented by the equations in the mn-plane are parallel and distinct. Lines represented by equations in the form Am+Bn=C, where A,B, and C are constant terms, are parallel if the ratio of the m coefficients is equal to the ratio of the n-coefficients, and distinct if the ratio of the m-coefficients is not equal to the ratio of the constant terms. Subtracting 10 n from both sides of the first equation gives, (5m-15n)-(10n)=(10n+25)-(10n), or 5m-25n=25. Subtracting m from both sides of the second equation gives, (kn)-(m)=(1/5+m)-(m), or -m+kn=1/5 . The ratio of the m-coefficients is -1/5. The ratio of the n-coefficients is -k/25. The ratio of the constant terms is (1/5)/25, or 1/125. Since the ratio of the m-coefficients, -1/5, is not equal to the ratio of the constants, 1/125, the lines represented by the equations are distinct. Setting the ratio of the m-coefficients equal to the ratio of the n-coefficients gives: -1/5=-k/25. Multiplying both sides by -25 yields (-1/5)(-25)=(-k/25)(-25), or k=5.
+Thus, if the system has no solution, the value of k is 5 .
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG017,System of linear equations,,"During a month, Alex walked p miles at 7 miles per hour and skated q miles at 14 miles per hour. He walked and skated a total of 350 miles that month, and he skated for thrice as many hours as he walked. What is the total number of miles that Alex skated during the month?",,Hard,140,210,280,300,D,"Choice D is correct. The number of hours Alex spent walking or skating can be calculated by dividing the distance he traveled during that activity by his speed, in miles per hour, for that activity. So, the number of hours he walked can be represented by the expression p/7, and the number of hours he skated can be represented by the expression q/14. It's given that he skated for thrice as many hours as he walked, so this can be represented by the equation q/14=3(p/7), which can be rewritten as q=6p. It's also given that he walked p miles and skated q miles, and that he walked and skated a total of 350 miles. This can be represented by the equation p+q=350. Substituting 6p for q in this equation yields p+6p=350, or 7p=350. Solving for p yields p=50. Determining the number of miles he skated, q, can be found by substituting 50 for p in p+q=350, which yields 50+q=350. Solving for q yields q=300.
+
+Choices A,B, and C are incorrect because they don't satisfy that Alex skated thrice as many hours as he walked. In choice A, if he skated 140 miles, then he walked 210 miles, which means he skated for 10 hours and walked for 15 hours. In choice B, if he skated 210 miles, then he walked 140 miles, which means he skated for 15 hours and walked for 20 hours. In choice C, if he skated 280 miles, then he walked 70 miles, which means he skated for 20 hours and walked for 10 hours.
+
+",Copy of Algebra: 1-Variable Linear Equations
+ALG018,System of linear equations,,"5/4 p+1/2 q=1/6 
+
+In the system of equations below, k and m are constants. 7kp+2q=m 
+If the system of equations has an infinite number of solutions (p,q), what is the value of k ?",,Hard,-7/4,0,5/7,7/4,C,"
+Choice C is correct. A system of two linear equations has infinitely many solutions if one equation is equivalent to the other. This means that when the two equations are written in the same form, each coefficient or constant in one equation is equal to the corresponding coefficient or constant in the other equation multiplied by the same number. The equations in the given system are written in the same form, with p and q on the left-hand side and a constant on the right-hand side. The coefficient of q in the second equation is equal to the coefficient of q in the first equation multiplied by 4 . Therefore, k, the coefficient of p in the second equation, must be equal to 4 times the coefficient of p in the first equation:
+7k=5/4(4)=5/7. 
+
+Choices A,B, and D are incorrect because when k=-7/4,k=0, or k=7/4, the given system of equations has one solution.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG019,System of linear equations,,"z=7p+13
+3z=20p+15 The solution to this system of equations is (p,z). What is the value of p-z ?
+
+",,Hard,-179,-24,131,155,C,"The correct answer is C . The first equation in the given system defines z as 7p+13. Substituting 7p+13 for z in the second equation yields 3(7p+13)=20p+15. Applying the distributive property on the left-hand side gives 21p+39=20p+15. Subtracting 20p from each side yields p+39=15. Subtracting 39 from each side gives p=-24. Substituting -24 for p in the first equation yields z=7(-24)+13, or z=-155.
+Finally, p-z=-24-(-155)=131.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG020,System of linear equations,,"In the system of equations below, p is a constant:
+y=3x+11
+y=px-5
+If the system of equations has no solution, what is the value of p ?
+",,Hard,-11/3,0,3,11,C,"Choice C is correct. A system of two linear equations has no solution when the graphs of the equations have the same slope and different y-coordinates of the y-intercepts. Each of the given equations is written in the slope-intercept form of a linear equation, y=mx+b, where m is the slope and b is the y-coordinate of the y-intercept of the graph of the equation. For these two linear equations, the y-coordinates of the y-intercepts are different: 11 and -5 . Thus, if the system of equations has no solution, the slopes of the two linear equations must be the same. The slope of the first linear equation is 3 . Therefore, for the system of equations to have no solution, the value of p must be 3 .
+
+Choices A,B, and D are incorrect and may result from conceptual and computational errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG021,System of linear equations,,"In the system of equations below, k is a constant:
+y=-2/3 x+9
+y=kx-15
+If the system has no solution, what is the value of k ?
+",,Hard,-3/2,-2/3,2/3,3/2,B,"The correct answer is B. A system of two linear equations has no solution when the graphs of the equations have the same slope and different y-intercepts. Each of the given linear equations is written in the slope-intercept form, y=mx+b, where m is the slope and b is the y-coordinate of the y-intercept of the graph of the equation. For these two linear equations, the y-intercepts are (0,9) and (0,-15). Thus, if the system of equations has no solution, the slopes of the graphs of the two linear equations must be the same. The slope of the graph of the first linear equation is -2/3. Therefore, for the system of equations to have no solution, the value of k must be -2/3. Choices A,C, and D are incorrect and may result from conceptual and computational errors.",Copy of Algebra: 1-Variable Linear Equations
+ALG022,System of linear equations,,"8p-15q=35 16p-23q=42 The solution to the given system of equations is (p,q). What is the value of pq ?",,Hard,-4,-25/8,25/2,4,C,"
+The correct answer is C. Multiplying the first equation in the given system by 2 yields 16p-30q=70. Subtracting the second equation in the given system, 16p-23q=42, from 16p-30q=70 yields (16p-30q)-(16p-23q)=70-42, which is equivalent to 16p-30q-16p+23q=28, or -7q=28. Dividing both sides of this equation by -7 yields q=-4. The value of p can be found by substituting -4 for q in either of the two given equations. Substituting -4 for q in the equation 16p-23q=42 yields 16p-23(-4)=42, or 16p+92=42. Subtracting 42 from both sides of this equation yields 16p=-50. Dividing both sides of this equation by 16 yields p=-50/16, or p=-25/8. Therefore, the value of pq is (-25/8)(-4), or 25/2. 
+Choices A,B, and D are incorrect and may result from conceptual and computational errors.",Copy of Algebra: 1-Variable Linear Equations
+ALG023,System of linear equations,,"9a-16=mb,  9a-7b=8b+26
+In the given system of equations, m is a constant, if the system has no solution, what is the value of m ?
+",,Hard,1,15,16,33,B,"The correct answer is B. Solving by substitution, the given system of equations, where m is a constant, can be written so that the left-hand side of each equation is equal to 9a. Adding 16 from each side of the first equation in the given system, 9a-16=mb, yields 9a=mb+16. Adding 7b to each side of the second equation in the given system, 9a-7b=8b+26, yields 9a=15b+26. Since the left-hand side of each equation is equal to 9a, setting the right-hand sides of the equations equal to each other yields mb+16=15b+26. A linear equation in one variable, b, has no solution if and only if the equation is false; that is, when there's no value of b that produces a true statement. For the equation mb+16=15b+26, there's no value of b that produces a true statement when mb=15b. Therefore, for the equation mb+16=15b+26, there's no value of b that produces a true statement when the value of m is 15 .
+It follows that in the given system of equations, the system has no solution when the value of m is 15.
+Choices A,C, and D are incorrect and may result from conceptual and computational errors.",Copy of Algebra: 1-Variable Linear Equations
+ALG024,System of linear equations,,"The equations 33p-2q=110 and 11p-2q=66 represent a system of equations. The solution to the system is (p,q). What is the value of q?",,Hard,-88,-44,-22,2,C,"The correct answer is C. Subtracting the second equation in the system from the first equation yields (33p-2q)-(11p-2q)=110-66, which simplifies to 33p-11p-2q+2q=44, or 22p=44. Dividing each side of this equation by 22 yields p=2. Substituting 2 for p in the second equation gives 22-2q=66. Subtracting 22 from both sides of this equation gives -2q=44 or q=-22.
+
+Alternate approach: Multiplying each side of the second equation by 3 gives 33p-6q=198. Subtracting the first equation from this result yields (33p-6q)-(33p-2q)=198-110, which simplifies to 33p- 33p-6q+2q=88, or -4q=88. Dividing each side of this equation by -4 gives q=-22.
+Choices A,B, and D are incorrect and may result from conceptual and computational errors.",Copy of Algebra: 1-Variable Linear Equations
+ALG025,System of linear equations,,"13m - 3n = 41 
+ -7m - 3n = 31
+
+If (m, n) is the solution to the system of equations above, what is the value of m - n?
+",,Hard,-72,-12,12,72,C,"Choice C is correct. Adding the second equation, -7m-3n=31, to the first equation, 13m- 3n=41, results in (13m-3n)+(-7m-3n)=41+31, or 13m-3n-7m+(-3n)=72.
+Combining like terms on the left-hand side of this equation yields 6m-6n=72. Dividing both sides by 6 gives m-n = 12.
+
+Choice B is incorrect and may result from miscalculating 13m-7m as -6m . 
+Choice D is incorrect and may result from forgetting to divide by 6. 
+Choice A is incorrect and represents the value of -6(m-n).
+",Copy of Algebra: 1-Variable Linear Equations
+ALG026,System of linear equations,,"The system of equations above has solutions (r,p). What is the value of r ?",,Medium,2,-7/5,-2,12,D,"
+Choice D is correct. Subtracting the corresponding sides of the two equations eliminates p and yields r=12, as shown.
+
+-1/3p=7
+r-1/3p=-5
+________
+r+0=12
+
+If (r,p) is a solution to the system, then ( r,p ) satisfies both equations in the system and any equation derived from them. Therefore, r=12.
+
+Choices A,B, and C are incorrect and may be the result of errors when solving the system.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG027,System of linear equations,,At how many points do the graphs of the equations y=3x-17 and y=-5x intersect in the xy plane?,,Medium,0,1,2,8,B,"Choice B is correct. Each given equation is written in slope-intercept form, y=mx+b, where m is the slope and (0,b) is the y-intercept of the graph of the equation in the xy-plane. The graphs of two lines that have different slopes will intersect at exactly one point. The graph of the first equation is a line with slope 3. The graph of the second equation is a line with slope -5. Since the graphs are lines with different slopes, they will intersect at exactly one point.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG028,System of linear equations,,"The solution to the system of equations q=5/7 p and q=-5/9 p is (p,q). What is the value of p ?",,Medium,-9/5,-7/5,0,9,C,"Choice C is correct. From the first equation in the system, q=5/7 p. Substituting 5/7 p for q in the second equation yields 5/7 p=-5/9 p. Dividing both sides by 5 gives 1/7 p=-1/9 p. Multiplying the left-hand side of this equation by 9/9 and the right-hand side by 7/7 gives 9/63 p=-7/63 p. Adding 7/63 p to both sides results in 16/63 p=0. Multiplying both sides by 63/16 gives p=0.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG029,System of linear equations,,y=-3x+5 y=-3x-5 At how many points do the graphs of the given equations intersect in the xy-plane?,,Medium,Zero,Exactly one,Exactly two,Infinitely many,A,"
+Choice A is correct. A system of two linear equations in two variables, x and y, has zero points of intersection if the lines represented by the equations in the xy-plane are distinct and parallel. The graphs of two lines in the xy-plane represented by equations in slope-intercept form, y=mx+b, are distinct if the y-coordinates of their y-intercepts, b, are different and are parallel if their slopes, m , are the same.
+For the two equations in the given system, y=-3x+5 and y=-3x-5, the values of b are 5 and -5 , respectively, and the values of m are both -3 . Since the values of b are different, the graphs of these lines have different y-coordinates of the y-intercept and are distinct. Since the values of m are the same, the graphs of these lines have the same slope and are parallel. Therefore, the graphs of the given equations are lines that intersect at zero points in the xy-plane.
+Choice B is incorrect. The graphs of a system of two linear equations have exactly one point of intersection if the lines represented by the equations have different slopes. Since the given equations represent lines with the same slope, there is not exactly one intersection point.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG030,System of linear equations,,"5q+3p=19  -3p=2q  The solution to the given system of equations is (q,p). What is the value of 3q ?",,Medium,95,57,19,3,C,"Choice C is correct. It's given by the second equation in the system that -3p=2q. Multiplying by (-1) both sides gives 3p=-2q. Substituting -2q for 3p in the equation 5q+3p=19 yields 5q-2q=19, or 3q=19.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG031,System of linear equations,,"A ribbon with a total length of 88 inches is cut into two pieces. One piece has a length of 
+p inches, and the other piece has a length of q inches. The value of 
+p is 14 less than 5 times the value of q. What is the value of p?
+",,Medium,15,17,37,71,D,"Choice D is correct. It's given that a ribbon with a total length of 88 inches is cut into two pieces. It's also given that one piece has a length of p inches and the other piece has a length of q inches. This can be represented by the equation p+q=88. It's also given that the value of p is 14 less than 5 times the value of q. This can be represented by the equation p=5q-14. Substituting 5q-14 for p in the equation p+q=88 yields 5q-14+q=88, or 6q-14=88. Adding 14 to each side of this equation yields 6q=102. Dividing each side of this equation by 6 yields q=17. Substituting 17 for q in the equation p=5q-14 yields p=5(17)-14, or p=71.
+
+Choice A is incorrect. This value represents less than half of the total length of 88 inches; however, p represents the length of the longer piece of the ribbon, since it's given that the value of p is 14 less than 5 times the value of q.
+
+Choice B is incorrect. This is the value of q and not p.
+
+Choice C is incorrect. This represents a piece that is 14 less than the length of the other piece, rather than 14 less than 5 times the value of the other piece.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG032,System of linear equations,,The equation 28m+68n=-84 is one of two equations in a system of linear equations. The system has infinitely many solutions. Which of the following could be the second equation in the system?,,Medium,21m+51n=63,-21m+51n=63,21m+51n=-63,−21m-51n=−63,C,"Choice C is correct. It's given that the system has infinitely many solutions. A system of two linear equations has infinitely many solutions when the two equations are equivalent. Dividing both sides of the given equation by 4 yields 7m+17n=-21. Dividing both sides of choice C by 4 also yields 7m+17n=21, so choice C is equivalent to the given equation. Thus, choice C could be the second equation in the system.
+
+Choice A is incorrect. The system consisting of this equation and the given equation has no solution, not infinitely many solutions.
+
+Choice B is incorrect. The system consisting of this equation and the given equation has one solution, not infinitely many solutions.
+
+Choice D is incorrect. The system consisting of this equation and the given equation has one solution, not infinitely many solutions.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG033,System of linear equations,,"5p-4q=13  3p-4q=5 The solution to the given system of equations is (p,q). What is the value of p?",,Medium,2,4,8,9,B,"Choice B is correct. Subtracting the second equation from the first equation in the given system yields (5p-4q)-(3p-4q)=13-5, or (5p-3p)+(-4q+4q)=8. Combining like terms in this equation yields 2p=8. Dividing both sides of this equation by 2 yields p=4. Thus, the value of p is 4.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect. This is the value of 2p, not p.
+
+Choice D is incorrect. This may result from adding 13 and 5 rather than subtracting. 
+
+",Copy of Algebra: 1-Variable Linear Equations
+ALG034,System of linear equations,,"6a-2b=-20 3a=7b+2  What is the solution (a,b) to the given system of equations?",,Medium,"(-4,-22)","(4,22)","(-4,-2)","(-2,-4)",C,"Choice C is correct. Subtracting 6a from both sides of the first equation in the given system yields -2b= -6a-20. Dividing both sides by -2 gives b=3a+10. Substituting the expression 3a+10 for b in the second equation in the given system yields 3a=7(3a+10)+2. Distributing the 7 on the right-hand side of this equation yields 3a= 21a+70+2. Subtracting 21a from both sides of this equation yields -18a=72. Dividing both sides of this equation by -18 yields a=-4. Substituting -4 for a in the equation b=3a+10 yields b=3(-4)+10, or b=-2. Therefore, the solution (a,b) to the given system of equations is (-4,-2).
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect. This is the solution (b,a), not (a,b), to the given system of equations.
+
+",Copy of Algebra: 1-Variable Linear Equations
+ALG035,System of linear equations,,"The equations s=7/2 t and s=-7/12 t form a system of equations. The solution to this system is (s,t). What is the value of t ?",,Medium,-7/12,-5/12,0,7/12,C,"Choice C is correct. From the first equation, it is given that s=7/2 t. Substituting 7/2 t for s in the second equation s=-7/12 t gives 7/2 t=-7/12 t. Dividing both sides by 7 gives  1/2 t=-1/12 t. Subtracting 1/2 t from both sides yields 0=-1/12 t-1/2 t, which simplifies to 0=-1/12 t-6/12 t, or 0=-7/12 t. Multiplying both sides of this equation by -7/12 gives t=0. Thus, the value of t is 0.
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice C is incorrect and may result from conceptual or calculation errors.
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Copy of Algebra: 1-Variable Linear Equations
+ALG036,1 Variable Linear Equations,,"If 6x+72=-30, what is the value of x+12 ?",,Easy,-30,-5,5,30,B,"Choice B is correct. Dividing all terms in the given equation by 6 yields:
+6x/6+72/6=-30/6
+or x+12=-5. Therefore, the 
+value of x+12 is -5 .
+
+Choice A is incorrect. This represents the value of 6x+72, not x+12.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG037,1 Variable Linear Equations,,What value of x satisfies the equation 8x+247=335 ?,,Easy,11,19,50,100,A,"Choice A is correct. Subtracting 247 from both sides of the given equation yields: 8x=88.
+Dividing both sides of this equation by 8 yields: x=11
+Therefore, the value of x that satisfies the equation 8x+247=335 is 11.
+        
+Choice B is incorrect. This value of x satisfies the equation 8x+247=399.
+        
+Choice C is incorrect. This value of x satisfies the equation 8x+247=647.
+        
+Choice D is incorrect. This value of x satisfies the equation 8x+247=1,047.
+",Answer Steps (Algebra)
+ALG038,1 Variable Linear Equations,,What value of x is the solution to the equation 17x-11x-150=390 ?,,Easy,40,90,540,900,B,"The correct answer is B . The equation 17x-11x-150=390 simplifies by combining like terms on the left-hand side, yielding: 6x-150=390. Adding 150 to both sides of this equation results in: 6x=540. Dividing by 6 both sides gives: x=90 Therefore, the value of x that solves the equation is 90 .
+Choice A is incorrect and may result from conceptual or calculation errors.
+	
+Choice C is incorrect and may result from conceptual or calculation errors.
+	
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG039,1 Variable Linear Equations,,"If 40-5y=-125, what is the value of 8-y ?",,Easy,-125,-25,25,125,B,"Choice B is correct. Dividing each side of the given equation by 5 yields: 40/5-5y/5=-125/5, or 8-y=-25. Therefore, the value of 8-y is -25 .
+        
+Choice A is incorrect and represents the value of 40-5y, not 8-y.
+        
+Choice C is incorrect. This represents the value of -(8-y), not 8-y.
+        
+Choice D is incorrect. This represents the value of -(40-5y), not 8-y.
+",Answer Steps (Algebra)
+ALG040,1 Variable Linear Equations,,4(11+2y)=92 Which equation has the same solution as the given equation?,,Easy,11+2y=23,11+2y=92,44+2y=23,44+2y=92,A,"Choice A is correct. Dividing each side of the given equation by 4 yields:
+(4(11+2y))/4=92/4 or 11+2y=23. Therefore, the equation 11+2y=23 is equivalent to the given equation and has the same solution.
+        
+Choice B is incorrect. This equation is equivalent to 4(11+2y)=368, not 4(11+2y)=92.
+        
+Choice C is incorrect. Distributing 4 on the left-hand side of the given equation yields 44+8y=92, not 44+2y=23.
+        
+Choice D is incorrect. Distributing 4 on the left-hand side of the given equation yields 44+8y=92, not 44+2y=92.
+
+
+",Answer Steps (Algebra)
+ALG041,1 Variable Linear Equations,,13x-8=278 What is the solution to the given equation?,,Easy,22,33,44,55,A,"The correct answer is A. Adding 8 to both sides of the given equation yields 13x=286. Dividing both sides of this equation by 13 yields x=22. Therefore, the solution to the given equation is 22. Choice B is incorrect and may result from conceptual or calculation errors.
+	
+Choice C is incorrect and may result from conceptual or calculation errors.
+	
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG042,1 Variable Linear Equations,,Sophia paid a total of $243 for a fitness tracker by making a down payment of $63 plus x monthly payments of 28 each. Which of the following equations represents this situation?,,Easy,28x-63=243,63x-28=243,28x+63=243,63x+28=243,C,"Choice C is correct. It is given that Sophia made a $28 payment each month for x months. The total amount of these payments can be represented by the expression 28 x . The down payment of $63 is added to this amount to find the total amount Sophia paid, yielding the expression 28x+63.
+
+Since the total amount Sophia paid is $243, the equation is: 28x+63=243.
+        
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice B is incorrect and may result from conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG043,1 Variable Linear Equations,,Which of the following is equivalent to 14-10x=-8 ?,,Easy,7-5x=4,-7+5x=-4,-7-5x=4,7-5x=-4,D,"Choice D is correct. Dividing each side of the original equation by 2 yields:
+(14-10x)/2=-8/2, which simplifies to 7-5x=-4.
+        
+Choice A is incorrect. Dividing each side of the original equation by 2 gives  7-5x=-4, which is not equivalent to 7-5x=4.
+        
+Choice B is incorrect. Dividing each side of the original equation by -2 gives -7+5x=4, which is not equivalent to -7+5x=-4.
+        
+Choice C is incorrect. Dividing each side of the original equation by -2 gives -7+5x=4, which is not equivalent to -7-5x=4.
+
+
+",Answer Steps (Algebra)
+ALG044,1 Variable Linear Equations,,"One pound of grapes costs $3. At this rate, how many dollars will 2y pounds of grapes cost?",,Easy,6y,3+2y,3/2y,2y/3,A,"Choice A is correct. If one pound of grapes costs $3, two pounds of grapes will cost 2 times $3, three pounds will cost 3 times $3, and so on. Therefore, 2y pounds of grapes will cost 2y×3, which is 6y dollars.
+        
+Choice B is incorrect and may result from incorrectly adding instead of multiplying.
+        
+Choice C is incorrect and may result from assuming that 2y pounds cost $3, and then finding the cost per pound.
+        
+Choice D is incorrect and could result from incorrectly assuming that 3 pounds cost 2y, and then finding the cost per pound.
+",Answer Steps (Algebra)
+ALG045,1 Variable Linear Equations,,"If 4y-5=-27, what is the value of 4y+5 ?",,Easy,-37,-17,-8,-11/2,B,"Choice B is correct. Adding 10 to both sides of the given equation yields:
+4y-5+10=-27+10,
+or 4y+5=-17. Therefore, the value of 4y+5 is -17 .
+        
+Choice A is incorrect. This represents the value of 4y-15, not 4y+5.
+        
+Choice C is incorrect. This may result from subtracting by 5 from both sides of equation 4y-5=-27 and finding the value of y. 
+        
+Choice D is incorrect. This represents the value of y, not 4y+5.
+
+",Answer Steps (Algebra)
+ALG046,1 Variable Linear Equations,,"4y-28=a(7-y) 
+In the given equation, a is a constant. If the equation has infinitely many solutions, what is the value of a ?
+",,Medium,4,-4,7,-7,B,"The correct answer is B. An equation with one variable, y, has infinitely many solutions only when both sides of the equation are equal for any defined value of y. It's given that 4y-28=a(7-y), where a is a constant.
+This equation can be rewritten as: 4(y-7)=-a(y-7)
+If this equation has infinitely many solutions, then both sides are equal for any defined value of y. For this to be true, -4=a. Therefore, if the equation has infinitely many solutions, the value of a is -4 .
+Choice A is incorrect and may result from a sign error when solving for a.
+Choice C and D are incorrect and may result from conceptual or calculation errors.
+
+Alternate approach:
+If y=0, substituting 0 into the equation 4y-28=a(7-y) gives:
+4(0)-28=a(7-0), or -28=7a. Dividing both sides of this equation by 7 yields:
+a=-4.",Answer Steps (Algebra)
+ALG047,1 Variable Linear Equations,,"(3k+9)y=18
+In the given equation, k is a constant. If the equation has no solution, what is the value of  k ?",,Medium,-3,0,3,6,A,"Choice A is correct. This equation has no solution when there is no value of y that produces a true statement. Solving the given equation for y by dividing both sides by 3k+9 gives: y=18/(3k+9) When 3k+9=0, the denominator becomes undefined, and the equation has no solution. Subtracting both sides of 3k+9=0 by 9 gives 3k=-9 then dividing by -3 gives the value of k to be -3. Therefore when k=-3,  the equation (3k+9)y=18 has no solution.
+        
+Choices B, C, and D are incorrect. Substituting 0, 3, or 6 for k in the given equation yields exactly one solution for y, rather than no solution. For example:
+If k=0, (0+9)y=18, or 9y=18. Dividing both sides by 9 gives y=2.
+If k=3, (9+9)y=18, or 18y=18. Dividing both sides by 18 gives y=1.
+If k=6, (18+9)y=18, or 27y=18. Dividing both sides by 27 gives y=18/27 or y= 2/3.
+",Answer Steps (Algebra)
+ALG048,1 Variable Linear Equations,,"k(-7y+12)-m=7y-21
+In the equation above, k and m are constants. If the equation has infinitely many solutions, what are the values of k and m ?
+",,Medium,k=-1 and m=-9,k=-1 and m=9,k=1 and m=9,k=1 and m=-9,B,"Choice B is correct. Distributing k on the left-hand side of the equation gives:
+-7ky+12k-m=7y-21 Since the equation has infinitely many solutions, the coefficients of y and the constants on both sides must be equal. This gives the following equations: -7k=7 or k=-1, so k=-1. & 12k-m=-21. Substituting k=-1 into 12k-m=-21 gives: 12(-1)-m=-21 or -12-m=-21. Solving for m yields: m=9 Thus, k=-1 and m=9.
+
+Choice A is incorrect and may result from a sign error when solving for m.
+
+Choices C and D are incorrect and may result from a sign error when solving for k.
+",Answer Steps (Algebra)
+ALG049,1 Variable Linear Equations,,"8(6-2x)+3(2x-5)=-7x
+What value of x is the solution of the equation above?
+",,Medium,-11,21,-21,11,D,"The correct answer is D. To solve the equation 8(6-2x)+3(2x-5)=-7x, first distribute the terms outside the parentheses: 48-16x+6x-15=-7x Combine like terms on the left-hand side: 33-10x=-7x Add 10x to both sides: 33=3x Finally, divide both sides by 3 : x=11. Thus, the solution is x=11
+Choice A is incorrect and may result from a sign error when solving for x.
+
+
+Choice B and C are incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG050,1 Variable Linear Equations,,"If 13(3y+15)=10(3y+15)+126, what is the value of y+5 ?",,Medium,-5,9,14,19,C,"Choice C is correct. Subtracting 10(3y+15) from both sides of the given equation yields:
+3(3y+15)=126 or (3y+15=42). Taking 3 common from the left hand side: 3(y+5)=42 Dividing by 3 gives the value of y+5 to be 14.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice B is incorrect. This represents the value of y, not y+5.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG051,1 Variable Linear Equations,,"If 8y/3+5/3=-5+y, what is the value of y+1 ?",,Medium,3,-4,-2,-3,D,"Choice D is correct. Multiplying the given equation by 3 on both sides yields:
+3(8y/3+5/3)=3(-5+y) Applying the distributive property, this equation can be rewritten as:
+3(8y/3)+3(5/3)=3(-5)+3(y) Or  8y+5=-15+3y Subtracting 3y from both sides gives 5y+5=-15 Dividing by 5 both sides: y+1=-3. Thus, the value of y+1 is -3.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+Choice B is incorrect. This represents the value of y, not y+1.
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG052,1 Variable Linear Equations,,"If 5(3y+33)-2(3y+33)=-45, what is the value of y+11 ?",,Medium,-27,-16,-5,-18,C,"
+Choice C is correct. Subtracting the like terms on the left-hand side of the given equation yields:
+3(3y+33)=-45
+Dividing both sides of this equation by 3 gives:
+3y+33=-15. Which can be written as 3(y+11)=-15
+Again dividing both sides of this equation by 3 gives:
+y+11=-5        
+Choice A is incorrect. This is the value of y-11, not the value of y+11.
+Choice B is incorrect. This is the value of y, not the value of y+11.
+Choice D is incorrect and may result from subtracting 3 , not dividing by 3 , on both sides of the equation 3(y+11)=-15.
+",Answer Steps (Algebra)
+ALG053,1 Variable Linear Equations,,"The width of a rectangular garden is 3y feet. The length of the garden is 4 feet shorter than its width. Which of the following expresses the perimeter, in feet, of the garden in terms of y ?",,Medium,6y-4,12y-8,9y^2-12,9y^2-12y,B,"
+Choice B is correct. It is given that the width of the garden is 3y feet, and the length is 4 feet shorter than the width. Therefore, the length of the garden is 3y-4. The perimeter of the garden is calculated as: 3y+3y+(3y-4)+(3y-4)=12y-8
+        
+Choice A is incorrect because it represents the sum of one width and one length, which is only half the perimeter.
+        
+Choice C is incorrect and may result from mistakenly using the formula for the area instead of the perimeter.
+        
+Choice D is incorrect because it represents the area, not the perimeter, of the garden.
+",Answer Steps (Algebra)
+ALG054,1 Variable Linear Equations,,"8y-56=(b(y-7))/3
+In the given equation, b is a constant. If the equation has infinitely many solutions, what is the value of b ?
+",,Medium,0,8,24,36,C,"Choice C is correct. If an equation has infinitely many solutions, then the two sides of the equation must be equivalent. Multiplying each side of the given equation by 3 yields: 24y-168=b(y-7) Since 24 is a common factor of both terms on the left-hand side, the equation can be rewritten as: 24(y-7)=b(y-7) The two sides of this equation are equivalent when b=24. Therefore, if the given equation has infinitely many solutions, the value of b is 24 .
+
+Alternate Verification:
+If y=0, substituting 0 into the given equation yields: 8(0)-56=(b(0-7))/3
+or -56=
+-73b Multiplying both sides by -3/7 gives: b=24
+        
+Choice A is incorrect. If b=0, the equation becomes 8y-56=0, which has one solution, not infinitely many.
+        
+Choice B is incorrect. If b=8, the equation becomes 8y-56=(8(y-7))/3, which also has one solution.
+        
+Choice D is incorrect. If b=36, the equation becomes 8y-56=(36(y-7))/3, which simplifies to 8y-56=12y-84, again resulting in one solution.
+
+",Answer Steps (Algebra)
+ALG055,1 Variable Linear Equations,,"18(4y)-15=-15+12(6y)
+How many solutions does the given equation have?
+",,Medium,Exactly one,Exactly two,Infinitely many,Zero,C,"Choice C is correct. If the two sides of a linear equation are equivalent, then the equation is true for any value of the variable. If an equation is true for any value, it has infinitely many solutions. Simplifying the given equation 18(4y)-15=-15+12(6y)
+gives 72y-15=72y-15. Since the two sides of the given linear equation are equivalent, the equation has infinitely many solutions.
+        
+Choice A is incorrect and may result from a misunderstanding of the concept of equivalency in equations.
+        
+Choice B is incorrect, as there are not exactly two solutions to this equation.
+        
+Choice D is incorrect, as the equation is always true for any value of y.
+",Answer Steps (Algebra)
+ALG056,1 Variable Linear Equations,,"Daniel used a device called a grain extractor to remove wheat from a silo at a constant rate. The silo contained 29,000 bushels of wheat when Daniel began using the extractor. After 6 hours of operating the extractor, 21,782 bushels of wheat remained in the silo. If the extractor continues to remove wheat at this rate, what is the total number of hours Daniel will have been using the extractor when 13,361 bushels of wheat remain in the silo?",,Hard,5,7,9,13,D,"Choice D is correct. After using the extractor for 6 hours, Daniel had removed 29,000-21,782= 7,218 bushels of wheat from the silo. During the 6 -hour period, the extractor removed wheat from the silo at a constant rate of 7,218÷6=1,203 bushels per hour. Assuming the extractor continues to remove wheat at this rate, after t hours it will have removed 1203t bushels of wheat.
+Since the silo initially contained 29,000 bushels of wheat, the equation 29,000-1203t=13,361 can be used to find the number of hours, t, Daniel will have been using the extractor when 13,361 bushels of wheat remain. Subtracting 13,361 from both sides of this equation and adding 1203t to both sides gives:
+15,639=1203t
+Dividing both sides by 1203 yields t=13. Therefore, Daniel will have been using the extractor for 13 hours when 13,361 bushels of wheat remain in the silo.
+
+Choice A is incorrect. Five hours after Daniel began using the extractor, 29,000-5(1203)= 22,985 bushels of wheat remained, not 13,361.
+        
+Choice B is incorrect. Seven hours after Daniel began using the extractor, 29,000-7(1203)=20,579 bushels of wheat remained, not 13,361.
+        
+Choice C is incorrect. Nine hours after Daniel began using the extractor,  29,000-9(1203)= 18,173 bushels of wheat remained, not  13,361.
+",Answer Steps (Algebra)
+ALG057,1 Variable Linear Equations,,"Jessica rides an average of 130 miles each week on her bike. Her bike requires an average of 31 miles per gallon of oil to maintain its chain. Jessica wants to reduce her weekly expenditure on oil by $4. Assuming oil costs $6 per gallon, which equation can Jessica use to determine how many fewer average miles, x, she should ride each week?",,Hard,31/6 x=126,31/6 x=4,6/31 x=126,6/31 x=4,D,"Choice D is correct. Since oil costs $6 per gallon, and Jessica's bike requires an average of 31 miles per gallon, the expression 6/31 gives the cost, in dollars per mile, to maintain the bike. Multiplying 6/31 by x gives the cost for Jessica to ride x miles on her bike. Jessica wants to reduce her weekly spending by $4, so setting 6/31 x=4 gives the number of miles, x, by which she must reduce her riding.
+        
+Choices A and B transpose the numerator and the denominator in the fraction. The fraction 31/6 would result in the unit ""miles per dollar,"" but the question requires the unit ""dollars per mile.""
+        
+Choices A and C incorrectly set the expression equal to 126 instead of 4, possibly due to the misunderstanding that Jessica wants to reduce her riding by 4 miles each week; however, the question clearly states she wants to reduce her weekly expenditure by $4.
+",Answer Steps (Algebra)
+ALG058,1 Variable Linear Equations,,How many solutions does the equation -7(12-6x)=-6(-7x+14) have?,,Hard,Exactly one,Exactly two,Infinitely many,Zero,C,"Choice C is correct. Applying the distributive property to each side of the given equation yields: -84+42x=42x-84 Rearranging the left-hand side using the commutative property of addition gives: 42x-84=42x-84 Since the two sides of the equation are equivalent, this equation is true for any value of x. Therefore, the given equation has infinitely many solutions.
+        
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice B is incorrect and may result from conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG059,1 Variable Linear Equations,,"In the equation 4(kx-16)=44-92/19 x, where k is a constant, the equation has no solution. What is the value of k ?",,Hard,-23/19,-19/23,23/19,11,A,"The correct answer is A. It is given that the equation 4(kx-16)=44-92/19 x has no solution. A linear equation in the form ax+b=cx+d, where a,b,c, and d are constants, has no solution only when the coefficients of x on each side of the equation are equal, but the constant terms are not equal. Dividing both sides of the given equation by 4 yields: kx-16=11-92/76 x Simplifying gives: kx-16=11-23/19 x, rearranging the terms gives: kx-16=-23/19 x+11 For the equation to have no solution, the coefficients of x on each side must be equal. Hence, k= -23/19. 
+Choice B is incorrect and may result from conceptual or calculation errors.
+        
+Choice C is incorrect and may result from conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG060,1 Variable Linear Equations,,"In the equation 20/11  x+45/8 = 5(kx+m), where k and m are constants and m<1, the equation has no solution. What is the value of k ?",,Hard,4/11,5/11,9/8,100/11,A,"
+The correct answer is A. A linear equation in the form ax+b=cx+d has no solution only when the coefficients of x on each side of the equation are equal, and the constant terms are not equal. Dividing both sides of the given equation by 5 yields:  20/55  x+45/40 = (kx+m)  Simplifying gives: 4/11 x + 9/8 = kx+m Since the equation has no solution, the coefficient of x on both sides must be equal, and the constant terms on both sides must not be equal. The coefficients of x must satisfy k=4/11. For the constant terms, m<1, and 9/8>1, ensuring that the constant terms are not equal. Thus, k=4/11. 
+        
+Choice B is incorrect and may result from conceptual or calculation errors.
+ Choice C is incorrect and may result from conceptual or calculation errors.       
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG061,1 Variable Linear Equations,,"A certain product costs a company $67 to produce. The product is sold by an agent who earns a commission that is equal to 18% of the sales price of the product. The profit the company makes for each unit is equal to the sales price minus the combined cost of producing the product and the commission. If the sales price of the product is $130, which of the following equations gives the number of units, y, of the product the company sold to make a profit of $9,425 ?",,Hard,"130(1-0.18)-67)y=9,425","(130-67)(1-0.82)y=9,425","0.82(130)-67y=9,425","0.18(130)+67)y=9,425",A,"Choice A is correct. The sales price of one unit of the product is $130. Since the agent earns a commission equal to 18% of the sales price, the expression 130(1-0.18) gives the sales price of one unit after the commission is deducted.
+The profit is equal to the sales price minus the combined cost of producing the product and the commission: 130(1-0.18)-67
+Multiplying this expression by y gives the total profit for y units: (130(1-0.18)-67)y
+It is given that the profit for y units is $9,425, so: (130(1-0.18)-67)y=9,425
+        
+Choice B is incorrect. This equation subtracts the production cost before deducting the commission and calculates the commission, not what the company retains after the commission.
+        
+Choice C is incorrect because the number of units is multiplied only by the cost but not by the profit after the sales price and commission.
+        
+Choice D is incorrect because the expression 0.18(130)+67 represents the commission and the production cost, not the profit the company retains.
+",Answer Steps (Algebra)
+ALG062,1 Variable Linear Equations,,11(11-2y)+2(2y-11)=45 What value of y is the solution to the given equation?,,Hard,-8,-3,3,8,C,"The correct answer is C . The given equation can be rewritten as: 11(11-2y)-2(11-2y)=45 which can be further solved to 9(11-2y)=45 Dividing both sides of this equation by 9 yields: 11-2y=5 Subtracting 11 from both sides of this equation gives: -2y=-6 Dividing by -2 both sides yields: y=3 Therefore, 3 is the value of y that is the solution to the given equation.
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice B is incorrect and may result from conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG063,1 Variable Linear Equations,,How many solutions does the equation -8(5-6x)=-4(3x+10) have?,,Hard,Exactly one,Exactly two,Infinitely many,Zero,A,"Choice A is correct. Distributing -8 on the left-hand side and -4 on the right-hand side of the given equation yields -40+48 x=-12x-40 Adding 12x to each side of this equation gives: 60x-40=-40 Adding 40 to each side of this equation results in: 60x=0 Dividing each side of this equation by 60 yields: x=0 This means that 0 is the only solution to the given equation. Therefore, the given equation has exactly one solution.
+        
+Choice B is incorrect and may result from conceptual or calculation errors.
+        
+Choice C is incorrect and may result from conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG064,1 Variable Linear Equations,,"A car dealership offers a special deal for customers paying in cash. The table below shows the discounted prices of five different car models and their corresponding monthly insurance costs. For the Civic model, the dealership applied a 30% discount on the original price, followed by an additional 15% off the reduced price for cash payment. Which of the following best approximates the original price, in dollars, of the Civic model?",,Hard,"$600,000","$302,521","$257,143","$211,765",B,"Choice B is correct. Let y represent the original price of the Civic model. After a 30% discount, the price became 0.7y, and an additional 15% discount on the reduced price brought the final price to 0.85(0.7y). Thus, the purchase price of the Civic model is represented as 0.595y. The equation is: 0.595y=180,000 Solving for y gives: y=180,000/0.595= ≈ 302,521 Therefore, $302,521 best approximates the original price of the Civic model.
+        
+Choice A is incorrect because it results from dividing the discounted price by 0.3, as though the discounted price were 30% of the original price.
+        
+Choice C is incorrect because it approximates dividing the discounted price by 0.7, as though the discounted price were 70% of the original price.
+        
+Choice D is incorrect because it results from dividing the discounted price by 0.85, as though the discounted price were 85% of the original price.
+
+",Answer Steps (Algebra)
+ALG065,1 Variable Linear Equations,,"A jewelry maker is designing a 43-bead necklace, where each bead is one of three sizes. The number of small beads (5 mm) is represented by x, and the number of large beads (11 mm) is seven times the number of small beads. There are 8 medium-sized beads ( 7 mm ). Which equation must be true for the value of x ?",,Hard,7x+8=43,8x+8=43,11x+5x+7x=43,11(7x)+5x+7(8)=43,B,"
+Choice B is correct. The necklace has 43 beads in total, with small, medium, and large sizes. It is given that the number of large beads is 7 times the number of small beads, so there are 7x large beads. There are 8 medium beads, and the number of small beads is x. Therefore, the number of small, medium, and large beads is x,8, and 7x, respectively. Since the total number of beads is 43 , the equation is: x+8+7x=43 Combining like terms on the left-hand side gives: 8x+8=43 This equation represents the relationship among the beads.
+        
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice C is incorrect and may result from misunderstanding the relationship between the variables.
+        
+Choice D is incorrect because it unnecessarily complicates the problem with inappropriate expressions.
+
+",Answer Steps (Algebra)
+ALG066,1 Variable Linear Equations,,"In the equation 9ax-36x=288 , where a is a constant, the equation has no solution. What is the value of a ?",,Hard,-4,0,4,8,C,"Choice C is correct. A linear equation in one variable has no solution if and only if the equation is false, meaning there is no value of x that produces a true statement. It is given that in the equation  9ax-36x=288, a is a constant, and the equation has no solution for x. Factoring out the common factor of 9x on the left-hand side of the equation gives: 9x(a-4)=288 Dividing both sides of the equation by 9 yields: x(a-4)=32 Dividing both sides of this equation by (a-4) gives: x=(32)/(a-4) This equation is false if and only if a-4=0, since division by zero is undefined. Solving for a : (a-4=0  a=4 )
+Thus, the equation (32)/(a-4) is false if and only if a=4. Therefore, the given equation has no solution if and only if a=4.
+        
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice B is incorrect and may result from conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG067,1 Variable Linear Equations,,"If (x-17)/5=(x-17)/7, the value of x-17 is between which of the following pairs of values?",,Hard,-7 and -5,-7 and 5,5 and 7,-5 and -7,B,"Choice B is correct. Multiplying both sides of the given equation by 5⋅7, or 35 , yields: 35⋅(x-17)/5=35⋅(x-17)/7 This simplifies to: 7(x-17)=5(x-17) Subtracting 5(x-17) from both sides of the equation gives: 2(x-17)=0 Dividing both sides of the equation by 2 yields: x-17=0 Therefore, if (x-17)/5=(x-17)/7, then the value of x-17 is 0 . Of the given choices, 0 falls between -7 and 5 .
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice C is incorrect and may result from conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG068,1 Variable Linear Equations,,6+70x+7 =58x+13 How many solutions does the given equation have?,,Hard,Zero,Exactly one,Exactly two,Infinitely many,B,"Choice B is correct. Subtracting 13 from each sides of the given equation gives: 70x=58x. Subtracting 58x from each side yields: 12x=0 Dividing each side of this equation by 12 gives: x=0 This means that 0 is the only solution to the given equation. Therefore, the given equation has exactly one solution.
+        
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice C is incorrect and may result from Conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG069,1 Variable Linear Equations,,"The equation 26x-5x+8=a(3x-b), where a and b are constants, has no solutions. Which of the following must be true?
+I. a=7
+II. b=-8
+III. b≠-8/7
+",,Hard,None,I only,I and II only,I and III only,D,"Choice D is correct. For a linear equation in the form ax+b=cx+d to have no solutions, the coefficients of x must be equal, and the remaining terms must not be equal. Solving the left-hand side and expanding the right-hand side of the given equation yields: 21x+8=3ax-ab
+Inspecting the x-terms, for the coefficients to be equal, 3a=21 or a=7. Thus, statement 1 must be true. For the equation to have no solutions, the remaining terms must not be equal. This means 8≠-ab. Substituting a=7 into this condition gives: 8≠-7b Solving for b, we find: b≠-8/7 Thus, statement III must also be true.
+        
+Choice A is incorrect. Both a=7 and b≠-8/7 must be true for the equation to have no solution.
+        
+Choice B is incorrect because it must also be true that b≠-8/7.
+        
+Choice C is incorrect because while a=7 and b=-8 might satisfy the equation, b=-8 is not required, and other values of b lead to no solutions as long as b≠-8/7.
+",Answer Steps (Algebra)
+ALG070,1 Variable Linear Equations,,"A chef is preparing 8 dishes for a banquet. Each dish will use either Recipe A or Recipe B, but not both. Recipe A requires 4 teaspoons of sugar, and Recipe B requires 7 teaspoons of sugar. If y represents the number of dishes prepared using Recipe A, and the remaining dishes are prepared using Recipe B, which of the following expressions represents the total number of teaspoons of sugar required?",,Hard,8y,11y,56-3y,56-11y,C,"Choice C is correct. It is given that y represents the number of dishes prepared using Recipe A , and that there are 8 dishes in total. Thus, 8-y is the number of dishes prepared using Recipe B. It is also given that Recipe A requires 4 teaspoons of sugar and Recipe B requires 7 teaspoons of sugar. The total amount of sugar required is: 4y+7(8-y) Simplifying this expression gives: 4y+56-7y=56-3y Thus, the total number of teaspoons of sugar required is 56-3y.
+        
+Choice A is incorrect and may result from a misunderstanding of the sugar requirements.
+        
+Choice B is incorrect and may result from incorrectly summing the requirements of both recipes for all dishes.
+        
+Choice D is incorrect and may result from misunderstanding the context or misinterpreting the relationship between y and the total number of dishes.
+
+",Answer Steps (Algebra)
+ALG071,2 Variable Linear Equations,,Line m is defined by y=-2/5x+23. Line n is perpendicular to line m in the xy-plane. What is the slope of line n ?,,Easy,-2/5,-5/2,2/5,5/2,D,"Choice D is correct. It's given that line n is perpendicular to line m in the xy -plane. It follows that the slope of line n is the opposite reciprocal of the slope of line m. The equation for line m is written in slope-intercept form y=mx+b, where m is the slope of the line and b is the y-coordinate of the y-intercept of the line. It follows that the slope of line m is -2/5 . The opposite reciprocal of a number is -1 divided by the number. Thus, the opposite reciprocal of -2/5 is 5/2. Therefore, the slope of line n is 5/2.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG072,2 Variable Linear Equations,,"A mixture consisting of only iron and magnesium has a total mass of 105 grams. The mass of iron in the mixture is 62 grams. What is the mass, in grams, of magnesium in the mixture?",,Easy,167,105,62,43,D,"Choice D is correct. Let x represent the mass, in grams, of iron in the mixture, and let y represent the mass, in grams, of magnesium in the mixture. It's given that the mixture consists of only iron and magnesium and that the total mass of the mixture is 105 grams. Therefore, the equation x+y= 105 represents this situation. It's also given that the mass of iron in the mixture is 62 grams. Substituting 62 for x in the equation x+y=105 yields 62+y=105. Subtracting 62 from both sides of this equation yields y=43. Therefore, the mass of magnesium in the mixture is 43 grams.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect. This is the total mass, in grams, of the mixture, not the mass, in grams, of magnesium in the mixture.
+
+Choice C is incorrect. This is the mass, in grams, of iron in the mixture, not the mass, in grams, of magnesium in the mixture.
+",Answer Steps (Algebra)
+ALG073,2 Variable Linear Equations,,The equation is y=7-x. Which table gives three values of x and their corresponding values of y for the given equation?,,Easy,,,,,A,"Choice A is correct. Substituting 1 for x into the given equation yields y=7-1, or y=6. Therefore, when x=1, the corresponding value of y for the given equation is 6. Substituting 0 for x into the given equation yields y=7-0, or y=7. Therefore, when x=0, the corresponding value of y for the given equation is 7. Substituting -1 for x into the given equation yields y=7-(-1), or y=8. Therefore, when x=-1, the corresponding value of y for the given equation is 8. Of the choices given, only the table in choice A gives these three values of x and their corresponding values of y for the given equation.
+
+Choice B is incorrect. This table gives three values of x and their corresponding values of y for the equation y=x+7.
+
+Choice C is incorrect. This table gives three values of x and their corresponding values of y for the equation y=-x.
+
+Choice D is incorrect. This table gives three values of x and their corresponding values of y for the equation y=x.
+",Answer Steps (Algebra)
+ALG074,2 Variable Linear Equations,,"7x+10y= 120
+A company charged $120 to transport a certain number of cartons of books and crates of furniture. The equation above represents the relationship between x, the number of cartons of books, and y, the number of crates of furniture. If 10 cartons of books were transported, how many crates of furniture were transported?
+",,Easy,2,5,7,8,B,"Choice B is correct. It's given that x represents the number of cartons of books, and y represents the number of crates of furniture. If 10 cartons of books were transported, then x=10. Substituting 10 for x in the equation 7x+10y= 120 yields 7(10)+10y=120 or 70+10y=120. Subtracting 70 from both sides of the equation gives 10y=50. Dividing both sides by 10 gives y=5. Therefore, the company transported 5 crates of furniture.
+
+Choices A,C, and D are incorrect. If the number of crates of furniture transported was 2 , then y=2. Substituting 2 for y in the given equation yields 7x+10(2)=120 or 7x+20=120. Subtracting 20 from both sides and then dividing by 7 gives x=100/7. However, it's stated that the number of cartons of books transported, x, is 10 , not 100/7, so y cannot equal 2 .
+Similarly, if y=7 or y=8, then x=50/7 or x=40/7, respectively, which is also incorrect.
+",Answer Steps (Algebra)
+ALG075,2 Variable Linear Equations,,"What is the equation of the line that passes through the point (0,1) and is parallel to the graph of y=-3x+5 in the xy-plane?",,Easy,y=1x,y=-3x+1,y=-3x,y=-1x-3,B,"Choice B is correct. The equation of a line in the xy-plane can be written in slope-intercept form, y=mx+b, where m is the slope of the line, and (0,b) is its y-intercept. It's given that the line passes through the point (0,1). Therefore, b=1. It's also given that the line is parallel to the graph of y=-3x+5, which means the line has the same slope as the graph of y=-3x+5. The slope of the graph of y=-3x+5 is -3 . Therefore, m=-3. Substituting -3 for m and 1 for b in the equation y=mx+b yields y=-3x+1.
+
+Choice A is incorrect. The graph of this equation passes through the point (0,0), not (0,1), and has a slope of 1, not⁡ -3.
+Choice C is incorrect. The graph of this equation passes through the point (0,0), not (0,1). 
+Choice D is incorrect. The graph of this equation passes through the point (0,-3), not (0,1), and has a slope of -1 not -3 .
+",Answer Steps (Algebra)
+ALG076,2 Variable Linear Equations,,"x+y=160
+The equation above relates the number of minutes, x, Ryan spends studying math each day and the number of minutes, y, he spends studying science each day. In the equation, what does the number 160 represent?
+",,Easy,The number of minutes spent studying math each day,The number of minutes spent studying science each day,The total number of minutes spent studying math and science each day,The number of minutes spent studying science for each minute spent studying math,C,"Choice C is correct. Ryan spends x minutes studying math each day and y minutes studying science each day. Therefore, x+y represents the total number of minutes Ryan spends studying math and science each day. Because x+y=160, it follows that 160 is the total number of minutes Ryan spends studying math and science each day.
+
+Choices A and B are incorrect. The number of minutes Ryan spends studying math each day is represented by x and need not be 160. Similarly, the number of minutes Ryan spends studying science each day is represented by y and need not be 160 . The number of minutes Ryan spends on each subject may vary; however, the total number of minutes he spends each day on these activities is constant and equal to 160 .
+
+Choice D is incorrect. The number of minutes Ryan spends studying science for each minute spent studying math cannot be determined from the information provided.
+",Answer Steps (Algebra)
+ALG077,2 Variable Linear Equations,,"A factory produces chairs and tables, one at a time, for a total of 685 minutes each day. It takes the factory 18 minutes to make a chair and 13 minutes to make a table. Which equation represents the possible number of chairs, x, and tables, y, the factory can produce each day?",,Easy,13x+18y=685,18x+13y=685,(x+y)(18+13)=685,(18+x)(13+y)=685,B,"Choice B is correct. It's given that it takes the factory 18 minutes to make a chair. It's also given that x represents the possible number of chairs the factory can produce each day. Multiplying 18 by x gives 18x, which represents the amount of time spent making chairs. It's given that it takes the factory 13 minutes to make a table. It's also given that y represents the possible number of tables the factory can produce each day. Multiplying 13 by y gives 13y, which represents the amount of time spent making tables. Combining the amount of time spent making x chairs and y tables yields 18x+13y. It's given that the factory produces items for a total of 685 minutes each day. Therefore, 18x+13y=685 represents the possible number of chairs, x, and tables, y, the factory can produce each day.
+
+Choice A is incorrect and may result from associating the time of 18 minutes with tables, rather than chairs, and the time of 13 minutes with chairs, rather than tables.
+
+Choice C is incorrect and may result from conceptual errors.
+
+Choice D is incorrect and may result from conceptual errors.
+",Answer Steps (Algebra)
+ALG078,2 Variable Linear Equations,,"The x-intercept of the graph of 8x-3y=32 in the xy-plane is (x,0). What is the value of x ?",,Easy,-32/3,4,32,3,B,"The correct answer is B. It's given that the x-intercept of the graph of 8x-3y=32 in the xy-plane is (x,0). Substituting 0 for y in the equation 8x-3y=32 yields 8x-3(0)=32, or 8x=32. Dividing both sides of this equation by 8 yields x=4. Therefore, the value of x is 4.
+Choice A, C and D are incorrect and may result from conceptual errors.",Answer Steps (Algebra)
+ALG079,2 Variable Linear Equations,,A technician at a workshop assembles gadgets and devices. It takes the technician 3.2 minutes to assemble a gadget and 5.6 minutes to assemble a device. The technician spends a total of 60.8 minutes assembling x gadgets and y devices. Which equation represents this situation?,,Easy,5.6x+3.2y=60.8,3.2x+5.6y=60.8,x+y=60.8,(x+y)(3.2+5.6)=60.8,B,"Choice B is correct. It's given that the technician takes 3.2 minutes to assemble a gadget. Multiplying 3.2 by the number of gadgets, x, yields 3.2x, the amount of time the technician spends assembling x gadgets. It's also given that the technician takes 5.6 minutes to assemble a device. Multiplying 5.6 by the number of devices, y, yields 5.6y, the amount of time the technician spends assembling y devices. It follows that the total amount of time, in minutes, the technician spends assembling x gadgets and y devices is 3.2x+5.6y. It's given that the technician spends a total of 60.8 minutes assembling x gadgets and y devices. Thus, the equation 3.2x+5.6y=60.8 represents this situation.
+
+Choice A is incorrect. This equation represents a situation where it takes the technician 5.6 minutes, rather than 3.2 minutes, to assemble a gadget and 3.2 minutes, rather than 5.6 minutes, to assemble a device.
+
+Choice C is incorrect. This equation represents a situation where it takes the technician 1 minute, rather than 3.2 minutes, to assemble a gadget and 1 minute, rather than 5.6 minutes, to assemble a device.
+
+Choice D is incorrect and may result from conceptual errors.
+
+",Answer Steps (Algebra)
+ALG080,2 Variable Linear Equations,,Line j is shown in the xy-plane. Line k (not shown) is parallel to line j. What is the slope of line k ?,,Easy,-4,-2,2,4,B,"The correct answer is B. It's given that line k is parallel to line j. It follows that the slope of line k is equal to the slope of line j. Given two points on a line in the xy-plane, (x_1,y_1 ) and (x_2,y_2 ), the slope of the line can be calculated as (y_2-y_1)/(x_2-x_1 ). In the xy-plane shown, the points (2,0) and (0,4) are on line j. It follows that the slope of line j is (4-0)/(0-2), or -2. Since the slope of line j is equal to the slope of line k, the slope of line k is also -2.
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice C is incorrect and may result from conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.",Answer Steps (Algebra)
+ALG081,2 Variable Linear Equations,,"In the xy-plane, line t passes through the points (3,11) and (0,-10). Which equation defines line t ?",,Medium,y=1/7 x-10,y=x-1/7,y=-7x-10,y=7x-10,D,"Choice D is correct. An equation defining a line in the xy-plane can be written in the form y=mx+b, where m represents the slope and (0,b) represents the y-intercept of the line. It's given that line t passes through the point (0,-10); therefore, b=-10. The slope, m, of a line can be found using any two points on the line, ( x_1,y_1 ) and (x_2,y_2 ), and the slope formula m=(y_2-y_1)/(x_2-x_1 ). Substituting (3,11) and (0,-10) for (x_1,y_1 ) and (x_2,y_2 ), respectively, in the slope formula yields m=(-10-11)/(0-3), or m=7. Substituting 7 for m and -10 for b in the equation y=mx+b yields y=7x-10.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG082,2 Variable Linear Equations,,"On a 393-mile trip, Taylor drove at an average speed of 47 miles per hour for the first x hours. She then completed the trip, driving at an average speed of 63 miles per hour for the remaining y hours. If x=3, what is the value of y?",,Medium,2.7,8.5,4,189,C,"The correct answer is 4 . It's given that Taylor drove 47 miles per hour for x hours; therefore, the distance driven at this speed can be represented by 47x. She then drove 63 miles per hour for y hours; therefore, the distance driven at this speed can be represented by 63y. Since Taylor drove a total of 393 miles, the equation 47x+63y=393 represents this situation. If x=3, substitution yields: 47(3)+63y=393 Simplifying: 141+63y=393 Subtracting 141 from both sides: 63y=252 Dividing both sides by 63 : y=4 Therefore, the value of y is 4.
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG083,2 Variable Linear Equations,,The table shows three values of x and their corresponding values of y. Which equation represents the linear relationship between x and y ?,,Medium,y=4x+19,y=4x+11,y=19x+4,y=19x+11,A,"
+Choice A is correct. The linear relationship between x and y can be represented by the equation y=mx+b, where m is the slope of the line in the xy-plane that represents the relationship, and b is the y-coordinate of the y-intercept. The slope can be computed using any two points on the line. The slope of a line between any two points, (x_1,y_1 ) and (x_2, y_2 ), on the line can be calculated using the slope formula, m=(y_2-y_1)/(x_2-x_1). In the given table, each value of x and its corresponding value of y can be represented by a point (x,y). In the given table, when the value of x is -3, the corresponding value of y is 7 and when the value of x is -2, the corresponding value of y is 11. Therefore, the points (-3,7) and (-2,11) are on the line. Substituting (-3,7) and (-2,11) for (x_1,y_1 ) and (x_2,y_2 ), respectively, in the slope formula yields m=(11-7)/(-2+3), or m=4. Substituting 4 for m in the equation y=mx+b yields y=4x+b.
+Substituting -1 for x, and its corresponding value of y, 15, for x and y, respectively, in this equation yields 15=4(-1)+b, or 15=b-4. Adding 4 to both sides of this equation yields 19=b. Substituting 19 for b in the equation y=4x+b yields y=4x+19. Therefore, the equation y=4x+19 represents the linear relationship between x and y.
+Choice B is incorrect. For this relationship, when the value of x is -1, the corresponding value of y is 7, not 15.
+Choice C is incorrect. For this relationship, when the value of x is -1 , the corresponding value of y is -15, not 15 .
+Choice D is incorrect. For this relationship, when the value of x is -1, the corresponding value of y is -8, not 15.
+",Answer Steps (Algebra)
+ALG084,2 Variable Linear Equations,,What is the slope of the graph of y/(10-15x)=(5/2)-3x in the xy-plane?,,Medium,-81/2,81/2,-69/2,25,A,"The correct answer is A. A linear equation can be written in the form y=mx+b, where m is the slope of the graph of the equation in the xy-plane and (0,b) is the y-intercept. Multiplying both sides of the given equation by (10-15x) gives y=(5/2)(10-15x)-3x  Distributing the 5/2 in the equation y=(5/2)(10-15x)-3x yields y=50/2 -75/2 x-3x. Combining like terms on the right-hand side of this equation yields y=-81/2 x+25. This equation is in the form y=mx+b, where m=-81/2 and b=25. Therefore, the slope of the graph of the given equation in the xy-plane is -81/2.  
+
+Choice B, C and D are incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG085,2 Variable Linear Equations,,What is the slope of the graph of 6y=24x/(-5) +102 in the xy-plane?,,Medium,17,-24/5,-4/5,4,C,"The correct answer is C. The graph of a line in the xy-plane can be represented by the equation y=mx+b, where m is the slope of the line and b is the y-coordinate of the y-intercept. Dividing by 6 both sides of the equation  6y=24x/(-5) +102 gives y=4x/(-5)+17. This equation can be written as y=(-4/5)x+17 . Therefore, the slope of the graph of this equation in the xy-plane is -4/5. 
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG086,2 Variable Linear Equations,,A total of 5 picture frames each have side length x. A total of 4 triangular mirrors each have side length y. None of these frames and mirrors shares a side. The sum of the perimeters of all these frames and mirrors is 336. Which equation represents this situation?,,Medium,5x+4y=336,5x+4y=84,20x+12y=336,5x+3y=83,C,"Choice C is correct. It's given that a total of 5 picture frames each have side length x. Therefore, each of the frames has a perimeter of 4x. Since there are a total of 5 frames, the sum of the perimeters of these frames is 4x+4x+4x+4x+4x, which is equivalent to 5(4x), or 20x. It's also given that a total of 4 triangular mirrors each have side length y. Therefore, each of the equilateral triangles has a perimeter of 3y. Since there are a total of 4 triangles, the sum of the perimeters of these mirrors is 3y+3y+3y+3y, which is equivalent to 4(3y), or 12y. Since the sum of the perimeters of the frames is 20x and the sum of the perimeters of the mirrors is 12y, the total sum of the perimeters is: 20x+12y. It's given that the total sum of the perimeters is 336 . Therefore, the equation 20x+12y=336 represents this situation.
+
+Choice A is incorrect. Dividing by 4 both sides of 20x+12y=336 gives 5x+4y=84 not 5x+4y=336.
+Choice B is incorrect. Dividing by 4 both sides of 20x+12y=336 gives 5x+3y=84 not 5x+4y=84. 
+Choice D is incorrect. Dividing by 4 both sides of 20x+12y=336 gives 5x+3y=84 not 5x+3y=83. 
+
+",Answer Steps (Algebra)
+ALG087,2 Variable Linear Equations,,"When line n is graphed in the xy-plane, it has an y-intercept of (0,24/7) and a x-intercept of (6, 0). What is the slope of line n ?",,Medium,-144/7,-7/4,-4/7,-7/144,C,"Choice C is correct. It's given that when line n is graphed in the xy-plane, it has an y-intercept of (0,24/7) and a x-intercept of (6, 0). The slope, m, of a line can be found using any two points on the line, (x_1,y_1 ) and (x_2,y_2 ), and the slope formula m=(y_2-y_1)/(x_2-x_1 ). Substituting the points (0,24/7) and (6, 0) for (x_1,y_1 ) and (x_2,y_2 ), respectively, in the slope formula yields m=(0-24/7)/(6-0), or m=(-24/7)(6). Therefore, the slope of line n is -4/7.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect. This is the slope of a line that has an x-intercept of (24/7, 0) and a y-intercept of (0,6).
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG088,2 Variable Linear Equations,,What is the slope of the graph of y=3/4(17x-8)-(11x)/3 in the xy-plane?,,Medium,-6,-11/3,51/4,109/12,D,"The correct answer is D. In the xy-plane, the graph of an equation in the form y=mx+b, where m and b are constants, has a slope of m and a y-intercept of (0,b). Applying the distributive property to the right-hand side of the given equation yields y=51/4 x-24/4-11x/3. Combining like terms yields y=109/12 x-6. This equation is in the form y=mx+b, where m=109/12 and b=-6. It follows that the slope of the graph of y=3/4(17x-8)-(11x)/3 in the xy plane is 109/12. 
+Choice A is incorrect and may result from conceptual or calculation errors.
+        
+Choice B is incorrect and may result from conceptual or calculation errors.
+        
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG089,2 Variable Linear Equations,,"3x+y=57
+In triangle XYZ, side XY is twice the side YZ, YZ has a length of x centimeters, and side ZX has a length of y centimeters. The given equation represents this situation. Which of the following is the best interpretation of 57 in this context?
+",,Medium,"The difference, in centimeters, between the lengths of sides XY and ZX","The difference, in centimeters, between the lengths of sides XY and YZ","The sum of the lengths, in centimeters, of the three sides of the triangle","The average of lengths of sides, in centimeters, of the triangle XYZ",C,"Choice C is correct. It's given that in triangle XYZ , side XY is twice the side YZ and YZ has a length of x centimeters. Therefore, the length of side XY is 2x. The expression 3x represents the sum of the lengths, in centimeters, of sides XY and YZ. It's also given that side ZX has a length of y centimeters. Therefore, the expression 3x+y represents the sum of the lengths, in centimeters, of sides XY,YZ, and ZX. Since 3x+y is the sum of the lengths of the three sides of the triangle and 3x+y=57, it follows that 57 is the sum of the lengths, in centimeters, of the three sides of the triangle.
+
+Choice A is incorrect. The difference, in centimeters, between the lengths of sides XY and ZX is 2x-y , not 57.
+
+Choice B is incorrect. The difference, in centimeters, between the lengths of sides XY and YZ is 2x-x , or x, not 57 . 
+
+Choice D is incorrect. The average of lengths of sides, in centimeters, of the triangle XYZ is 57/3=19 and not 57.
+",Answer Steps (Algebra)
+ALG090,2 Variable Linear Equations,,"A line passes through the points (-3,9) and (12,18) in the xy-plane. What is the slope of the line?",,Medium,3/5,1,5/3,3,A,"The correct answer is A. For a line that passes through the points (x_1,y_1 ) and (x_2,y_2 ) in the xy-plane, the slope of the line can be calculated using the slope formula, m=(y_2-y_1)/(x_2-x_1 ). It's given that a line passes through the points (-3,9) and (12,18) in the xy-plane. Substituting (-3,9) for (x_1,y_1 ) and (12,18) for (x_2,y_2 ) in the slope formula, m=(y_2-y_1)/(x_2-x_1 ), yields m=(18-9)/(12+3), or m=9/15. Which can be further solved to m=3/5. Therefore, the slope of the line is 3/5. 
+Choice B is incorrect and may result from conceptual or calculation errors.
+        
+Choice C is incorrect and may result from conceptual or calculation errors.
+        
+Choice D is incorrect and may result from conceptual or calculation errors.",Answer Steps (Algebra)
+ALG091,2 Variable Linear Equations,,"A certain student has enrolled in 142 hours of study courses. The equation 21x+19y=142 represents this situation, where x is the number of in-person study courses and y is the number of virtual study courses this student has enrolled in. How many more hours does each in-person study course take than each virtual study course?",,Hard,21,19,2,40,C,"The correct answer is C. It's given that the equation 21x+19y=142 represents the situation, where x is the number of in-person study courses, y is the number of virtual study courses, and 142 is the total number of hours of study courses the student has enrolled in. 
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG092,2 Variable Linear Equations,,Line p is defined by -3y+21x=8. Line r is perpendicular to line p in the xy-plane. What is the slope of line r ?,,Hard,7,-7,1/7,-1/7,D,"The correct answer is D. For an equation in slope-intercept form y=mx+b, m represents the slope of the line in the xy-plane defined by this equation. It's given that line p is defined by -3y+21x=8. Subtracting 21x from both sides of this equation yields -3y=-21x+8. Dividing both sides of this equation by -3 yields y=-21/-3 x+8/-3, or y=7x-8/3. Thus, the slope of line p is 7. If line r is perpendicular to line p, then the slope of line r is the negative reciprocal of the slope of line p. The negative reciprocal of 7 is -1/((7))=-1/7. 
+Choice A, B and C are incorrect and may result from conceptual or calculation errors.",Answer Steps (Algebra)
+ALG093,2 Variable Linear Equations,,"In the xy-plane, line k intersects the y-axis at the point (0,4) and passes through the point (3,1). If the point (w,-10) lies on line k, what is the value of w ?",,Hard,-10,14,-14,6,B,"The correct answer is B. The y-intercept of a line in the xy-plane is the ordered pair (x,y) of the point of intersection of the line with the y-axis. Since line k intersects the y-axis at the point (0,4), it follows that (0,4) is the y-intercept of this line. An equation of any line in the xy-plane can be written in the form y=mx+b, where m is the slope of the line and b is the y -coordinate of the y-intercept. Therefore, the equation of line k can be written as y=mx+(4), or y=mx+4. The value of m can be found by substituting the x and y-coordinates from a point on the line, such as (3,1), for x and y , respectively. This results in 1=3m+4. Solving this equation for m gives m=-1. Therefore, an equation of line k is y=-x+4. The value of w can be found by substituting the y-coordinate, -10 , for y in the equation of line k and solving this equation for x . This gives -10=-(x)+4, or x=14. Since w is the x -coordinate of this point, w=14.
+Choice A, C and D are incorrect and may result from conceptual or calculation errors.",Answer Steps (Algebra)
+ALG094,2 Variable Linear Equations,,"13/7 x+5/3 y=5
+Which table gives three values of x and their corresponding values of y for the given equation?
+",,Hard,,,,,D,"Choice D is correct. Each of the tables gives the same three values of x: -2,-3, and 4. Substituting -2 for x in the given equation yields (13/7)(-2)+5/3y=5, or
+-26/7+5/3 y=35/7. Adding 26/7 from both sides of this equation yields 5/3 y=61/7. Multiplying both sides of this equation by 3/5 yields y=183/35. Therefore, when x=-2, the corresponding value of y for the given equation is 183/35. Substituting -3 for x in the given equation yields (13/7)(-3)+5/3 y=5, or -39/7+5/3 y=35/7. Adding 39/7 to both sides of this equation yields 5/3 y=74/7. Multiplying both sides of this equation by 3/5 yields y=222/35. Therefore, when x=-3, the corresponding value of y for the given equation is 222/35. Substituting 4 for x in the given equation yields (13/7)(4)+5/3y=5, or 52/7+5/3 y=35/7. Subtracting 52/7 from both sides of this equation yields 5/3 y=-17/7. Multiplying both sides of this equation by 3/5 yields y=-51/35. Therefore, when x=4, the corresponding value of y for the given equation is -51/35. The table in choice D gives x-values of -2,-3 , and 4 and corresponding y-values of 183/35, 222/35, and -51/35, respectively. Therefore, the table in choice D gives three values of x and their corresponding values of y for the given equation.
+
+Choice A is incorrect. This table gives three values of x and their corresponding values of y for the equation 13/7 x+5/3+y=5
+
+
+Choice B is incorrect. This table gives three values of x and their corresponding values of y for the equation 13/7 x+ y=5.
+
+Choice C is incorrect. This table gives three values of y corresponding to the values -2, -3, and -4 of x, not -2, -3, and 4.
+
+",Answer Steps (Algebra)
+ALG095,2 Variable Linear Equations,,"In the xy-plane, line p has a slope of 9/5 and an y-intercept of (0,27). What is the x-coordinate of the x-intercept of line p ?",,Hard,-135,-15,15,27,B,"The correct answer is B. A line in the xy-plane can be represented by the equation y=mx+b, where m is the slope of the line and b is the y-coordinate of the y-intercept. It's given that line p has a slope of 9/5. Therefore, m=9/5. It's also given that line p has an y-intercept of (0,27). Therefore, b=27. We have to find the x-coordinate of the x-intercept of line p. That is, we have to find x when y=0. Substituting 9/5 for m, 27 for b, and 0 for y in the equation y=mx+b yields 0=(9/5)(x)+27, Subtracting 27 from both sides of this equation yields -27=(9/5)(x). Multiplying both sides by 5 gives: -135=9x Dividing by 9 both sides gives x=-15. Therefore, the x-coordinate of the x-intercept of line p is -15.
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG096,2 Variable Linear Equations,,"In the xy-plane, line l passes through the point (0,0) and is parallel to the line represented by the equation y=-4/3x-3. If line l also passes through the point (d,-2/3), what is the value of d ?",,Hard,-7/4,-1/2,1/2,7/4,C,"The correct answer is C . A line in the xy-plane can be defined by the equation y=mx+b, where m is the slope of the line and b is the y-coordinate of the y-intercept of the line. It's given that line l passes through the point (0,0). Therefore, the y-coordinate of the y-intercept of line l is 0. It's given that line l is parallel to the line represented by the equation y=-4/3x-3. Since parallel lines have the same slope, it follows that the slope of line l is -4/3. Therefore, line l can be defined by an equation in the form y=mx+b, where m=-4/3 and b=0. Substituting -4/3 for m and 0 for b in y=mx+b yields the equation y=-4/3x+0, or y=-4/3x. If line l passes through the point (d,-2/3), then when y=-2/3, x=d for the equation y=-4/3x. Substituting -2/3 for y and d for x in the equation y=-4/3x yields -2/3=-4/3(d). Multiplying by -3/2 both sides gives 1=2(d) or d=1/2.
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG097,2 Variable Linear Equations,,Line h is defined by 3/4 x+2/17 y-132+5/4 x=0. Line j is perpendicular to line h in the xy-plane. What is the slope of line j ?,,Hard,-17,-1/17,1/17,17,C,"Choice C is correct. It's given that line h is defined by 3/4 x+2/17 y-132+5/4 x=0. This equation can be written in slope intercept form y=mx+b, where m is the slope of line h and b is the y-coordinate of the y-intercept of line h. Solving the like terms gives 8/4 x+2/17 y-132=0. Adding 132 to both sides of 8/4 x+2/17 y-132=0 yields 
+8/4 x+2/17 y=132. Subtracting 8/4 x or 2x from both sides of this equation yields 2/17y=-2x+132. Dividing both sides by 2 yields 1/17 y=-x+66. Multiplying both sides of this equation by 17 yields y=-17 x+1,122. Therefore, the slope of line h is -17. It's given that line j is perpendicular to line h in the xy-plane. Two lines are perpendicular if their slopes are negative reciprocals, meaning that the slope of the first line is equal to -1 divided by the slope of the second line. Therefore, the slope of line j is the negative reciprocal of the slope of line h. The negative reciprocal of -17 is (-1)/((-17) ), or 1/17. Therefore, the slope of line j is 1/17.
+
+Choice A is incorrect. This is the slope of a line in the xy-plane that is parallel, not perpendicular, to line h.
+
+Choice B is incorrect. This is the reciprocal, not the negative reciprocal, of -17.
+
+Choice D is incorrect. This is the negative, not the negative reciprocal, of -17.
+
+",Answer Steps (Algebra)
+ALG098,2 Variable Linear Equations,,"The table above shows the coordinates of three points on a line in the xy-plane, where k and n are constants. If the slope of the line is 5 , what is the value of k+n ?",,Hard,1,8,9,10,D,"The correct answer is D. The slope of a line can be found by using the slope formula, (y_2-y_1)/(x_2-x_1 ). It's given that the slope of the line is 5; therefore, (y_2-y_1)/(x_2-x_1 )=5. According to the table, the points (8,-13/2) and (k,-3/2) lie on the line. Substituting the coordinates of these points into the equation gives (-3/2-(-13/2))/(k-8)=5. Multiplying both sides of this equation by k-8 gives 13/2-3/2=5(k-8), or 10/2=5k-40. Solving for k gives k=9. According to the table, the points (8,-13/2) and (19/2,n) also lie on the line. Substituting the coordinates of these points into (y_2-y_1)/(x_2-x_1 )=5 gives (n+13/2)/(19/2-8)=5. Solving the denominator gives (n+13/2)/3/2=5. Multiplying by 3/2 both sides yields (n+13/2)=15/2  Solving for n gives 2n=2 or n=1. Therefore, k+n=9+1, or 10.
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG099,2 Variable Linear Equations,,The graph of 7x+2y=35 is translated up 3 units in the xy-plane. What is the x-coordinate of the x-intercept of the resulting graph?,,Hard,41/7,5,29/7,41/2,A,"The correct answer is A. When the graph of an equation in the form Ax+By=C, where A,B, and C are constants, is translated up k units in the xy-plane, the resulting graph can be represented by the equation Ax+B(y-k)=C. It's given that the graph of 7x+2y=35 is translated up 3 units in the xy-plane. Therefore, the resulting graph can be represented by the equation 7x+2(y-3)=35, or 7x+2y-6=35. Adding 6 to both sides of this equation yields 7x+2y=41. The x-coordinate of the x-intercept of the graph of an equation in the xy-plane is the value of x in the equation when y=0. Substituting 0 for y in the equation 7x+2y=41 yields 7x+2(0)=41, or 7x=41. Dividing both sides of this equation by 7 yields x=41/7. Therefore, the x-coordinate of the x-intercept of the resulting graph is 41/7. 
+",Answer Steps (Algebra)
+ALG100,2 Variable Linear Equations,,"The graph of 11x-7/2y=42 in the xy-plane has an x-intercept at (a,0) and a y-intercept at (0,b), where a and b are constants. What is the value of a/b ?",,Hard,22/7,7/22,-7/22,-22/7,C,"Choice C is correct. The x-coordinate a of the x-intercept (a,0 ) can be found by substituting 0 for y in the given equation, which gives 11x-7/2(0)=42, or 11x=42. Dividing both sides of this equation by 11 yields x=42/11. Therefore, the value of a is 42/11. The y-coordinate b of the y-intercept (0,b) can be found by substituting 0 for x in the given equation, which gives 11(0)-7/2y=42, multiplying by 2 both sides gives -7y=84. Dividing both sides of this equation by -7 yields y=-12. Therefore, the value of b is -12. It follows that the value of a/b is (42/11)/(-12), which is equivalent to (-42)(132), or -7/22.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG101,2 Variable Linear Equations,,"                                                                                                                                                                                                                                                                                                                                               The points plotted in the coordinate plane above represent the possible numbers of notebooks and pens that a student can purchase at the school supply store to spend exactly $30.00. The price of each notebook is the same, and the price of each pen is the same. What is the price, in dollars, of 1 notebook?",,Hard,,,,,3,"
+The correct answer is 3 . The point (0,10) corresponds to the situation where 10 notebooks and 0 pens are purchased. Since the total cost for the two types of items is $30.00, it follows that the price of 10 notebooks is $30.00. To find the price of one notebook, divide the total cost by the number of notebooks: 30/10=3
+Thus, the price of one notebook is $3.
+",Answer Steps (Algebra)
+ALG102,2 Variable Linear Equations,,Jasmine made 18 liters of fruit juice. She then filled x small bottles and y large bottles with all the fruit juice she made. The equation 4x+2y=18 represents this situation. Which is the best interpretation of 4x in this context?,,Hard,The number of large bottles Jasmine filled,The number of small bottles Jasmine filled,The total number of liters of fruit juice in the large bottles,The total number of liters of fruit juice in the small bottles,D,"Choice D is correct. It's given that the equation 4x+2y=18 represents the situation where Jasmine filled x small bottles and y large bottles with all the fruit juice she made, which totaled 18 liters. Therefore, 4x represents the total number of liters of fruit juice in the small bottles, and 2y represents the total number of liters of fruit juice in the large bottles.
+
+Choice A is incorrect. The number of large bottles Jasmine filled is represented by y, not 4x. 
+
+
+Choice B is incorrect. The number of small bottles Jasmine filled is represented by x, not 4x. 
+",Answer Steps (Algebra)
+ALG103,2 Variable Linear Equations,,"At a school event, students can earn two types of badges that are worth a different number of points each. One student earned S silver badges and G gold badges, worth a total of 315 points. The given equation 55G+30S=315 represents this situation. How many more points is a gold badge worth than a silver badge?",,Hard,25,35,260,285,A,"The correct answer is A. It's given that 55G+30S=315, where G is the number of gold badges and S is the number of silver badges and. From the equation: The coefficient of G is 55, so a gold badge is worth 55 points. The coefficient of S is 30 , so a silver badge is worth 30 points. To find how many more points a gold badge is worth than a silver badge, subtract the point value of a silver badge from the point value of a gold badge: 55-30=25 Therefore, a gold badge is worth 25 points more than a silver badge.
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG104,2 Variable Linear Equations,,"3/2 x-5/2 y=3by-5ax=1
+In the given pair of equations, a and b are constants. The graph of this pair of equations in the xy-plane is a pair of perpendicular lines. Which of the following pairs of equations also represents a pair of perpendicular lines?
+",,Hard,3x-10 y=6by+20ax=1,3x-10 y=6by-20ax=1,"3x-10 y=6by-10ax=1
+",3x+10 y=6by-10ax=1,B,"Choice B is correct. Two lines are perpendicular if their slopes are negative reciprocals, meaning that the slope of the first line is equal to -1 divided by the slope of the second line. Each equation in the given pair of equations can be written in slope-intercept form, y=mx+b, where m is the slope of the graph of the equation in the xy-plane and (0,b) is the y intercept. For the first equation, 
+3/2 x-5/2 y=1, multiplying both sides by 2 gives 3x-5y=2 .Subtracting 3x from both sides gives -5y=-3x+2, and dividing both sides of this equation by -5 gives 
+y=3/5 x-2/5. Therefore, the slope of the graph of this equation is 3/5. For the second equation, 3by-5ax=1, adding 5ax to both sides gives 3by=5ax+1, and dividing both sides of this equation by 3b gives y=5a/3b x+1/3b. Therefore, the slope of the graph of this equation is 5a/3b. Since the graph of the given pair of equations is a pair of perpendicular lines, the slope of the graph of the second equation, 5a/3b, must be the negative reciprocal of the slope of the graph of the first equation, 3/5. The negative reciprocal of 3/5 is (-1)/((3/5) ), or -5/3.
+Therefore, 5a/3b=-5/3, or a/b=-1/1. Similarly, rewriting the equations in choice B in slope-intercept form yields y=3x/10-1/10 and y=20ax/6b+1/6b. It follows that the slope of the graph of the first equation in choice B is 3/10 and the slope of the graph of the second equation in choice B is 20a/6b. Since a/b=-1, . The slope of the graph of the second equation in choice B becomes -20/6 or -10/3. Since -10/3 is the negative reciprocal of 3/10, the pair of equations in choice B represents a pair of perpendicular lines.
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG105,2 Variable Linear Equations,,The line with the equation 11/12 x-19/8 y=33/4 is graphed in the xy-plane. What is the x-coordinate of the x-intercept of the line?,,Hard,-66/19,1,66/19,9,D,"The correct answer is D. The y-coordinate of the x-intercept is 0 , so 0 can be substituted for y, giving 11/12 x-(19/8){0)=33/4. This simplifies to 11/12 x=33/4. Multiplying both sides of 11/12 x=33/4 by 4 gives 11/3 x=33. Dividing both sides of   11/3 x=33 by 11 gives 1/3 x=3. Multiplying by 3 both sides gives x=9.
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG106,Linear Relationships & Functions,,"Elena deposits $45 into her investment portfolio at the end of each week. At the beginning of the 1st week of a new fiscal quarter, there was $700 in that investment portfolio. How much money, in dollars, will be in the portfolio at the end of the 4th week of that quarter?",,Easy,520,745,749,880,D,"Choice D is correct. It's given that at the beginning of the 1st week of the fiscal quarter there was $700 in an investment portfolio, and Elena deposits $45 into that investment portfolio at the end of each week. Therefore, the amount of money, in dollars, in the investment portfolio at the end of the 4th week of that quarter is 700+4(45), or 880 .
+
+Choice A: is incorrect. This is the amount of money, in dollars, that will be in the portfolio at the end of the 4th week if Elena withdraws, rather than deposits, $45 at the end of each week.
+
+Choice B: is incorrect. This is the amount of money, in dollars, that will be in the portfolio at the end of the 1st week, not the 4 th week.
+
+Choice C: is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG107,Linear Relationships & Functions,,"A dietician recommends that each day a certain cat should eat 30 calories per pound of the cat's weight, plus an additional 15 calories. Which equation represents this situation, where k is the total number of calories the dietician recommends the cat should eat each day if the cat's weight is x pounds?",,Easy,k=30x,k=45x,k=15x+30,k=30x+15,D,"Choice D is correct. It's given that a dietician recommends that each day the cat should eat 30 calories per pound of the cat's weight, plus an additional 15 calories. If the cat's weight is x pounds, then multiplying 30 calories per pound by the cat's weight, x pounds, yields 30x calories. Adding the additional 15 calories that the cat should eat each day yields 30x+15 calories. It's given that k is the total number of calories the dietician recommends the cat should eat each day if the cat's weight is x pounds. Therefore, this situation can be represented by the equation k=30x+15.
+
+Choice A : is incorrect. This equation represents a situation where a dietician recommends that each day the cat should eat 30 calories per pound of the cat's weight.
+
+Choice B: is incorrect. This equation represents a situation where a dietician recommends that each day the cat should eat 30+15, or 45 , calories per pound of the cat's weight.
+
+Choice C : is incorrect. This equation represents a situation where a dietician recommends that each day the cat should eat 15 calories per pound of the cat's weight, plus an additional 30 calories.
+",Answer Steps (Algebra)
+ALG108,Linear Relationships & Functions,,"The total expense g(y), in dollars, to rent an apartment for 48 months from a particular real estate agency is given by g(y)=48y+1,200, where y is the monthly rent, in dollars. What is the total expense to rent an apartment when the monthly rent is $500 ?",,Easy,"$25,200","$25,400","$26,400","$48,400",A,"Choice A is correct. It's given that g(y) is the total expense, in dollars, to rent an apartment from this agency with a monthly rent of y dollars. Therefore, the total expense, in dollars, to rent the apartment when the monthly rent is $500 is represented by the value of g(y) when y=500. Substituting 500 for y in the equation g(y)=48y+1,200 yields g(500)=48(500)+1,200, or g(500)=24,000+1,200=25,200. Thus, when the monthly rent is $500, the total expense to rent an apartment is $25,200.
+
+Choice B: is incorrect and may result from conceptual or calculation errors.
+
+Choice C: is incorrect and may result from conceptual or calculation errors.
+
+Choice D: is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG109,Linear Relationships & Functions,,"p=18-x/25
+The equation shown gives the estimated quantity of paint p, in gallons, that remains in a container after painting x square feet of wall, where 0≤x≤450. What is the estimated quantity of paint, in gallons, that remains in the container when x=350 ?
+",,Easy,4,8,12,18,A,"
+Choice A is correct. It's given that the equation p=18-x/25 gives the estimated quantity of paint p, in gallons, that remains in the container after painting x square feet of wall. Substituting 350 for x in the given equation yields p=18-350/25, which is equivalent to p=18-14, or p=4 . Therefore, the estimated quantity of paint that remains in the container when x=350 is 4 gallons.
+
+Choice B : is incorrect. This is the estimated quantity of paint, in gallons, that will remain in the container when x=250, not when x=350.
+
+Choice C : is incorrect. This is the estimated quantity of paint, in gallons, that will remain in the container when x=150, not when x=350.
+
+Choice D : is incorrect. This is the estimated quantity of paint, in gallons, that will remain in the container when x=0, not when x=350.
+",Answer Steps (Algebra)
+ALG110,Linear Relationships & Functions,,"The base of a flagpole is at ground level and is initially 20 feet tall. If the flagpole extends at a constant rate of 6 feet per minute, which of the following equations gives the height y, in feet, of the flagpole t minutes after it starts extending?",,Easy,y=6t+20,y=20t+305/6,y=6t+305/20,y=20t+6,A,"Choice A is correct. It's given that the base of the flagpole starts extending when it's 20 feet tall. This initial height of 20 feet can be represented by a constant term, 20, in an equation. Each minute, the flagpole extends 6 feet, which can be represented by 6t. Thus, the equation y=6t+20 gives the height, in feet, of the flagpole t minutes after it starts extending.
+
+Choices B and C: are incorrect and may result from conceptual errors in creating a linear equation. 
+
+Choice D: is incorrect and may result from switching the rate at which the flagpole extends with its initial height.
+",Answer Steps (Algebra)
+ALG111,Linear Relationships & Functions,,"If g is the function defined by g(y)=(3y-2)/4, what is the value of g(4) ?",,Easy,1/2,5/2,6,10,B,"Choice B is correct. If g(y)=(3y-2)/4, then g(4)=(3(4)-2)/4=(12-2)/4=10/4= 5/2
+
+Choice A : is incorrect and may result from failing to multiply y by 3 in the numerator.
+
+Choice C : is incorrect and may result from taking g(y)=4
+
+Choice D : is incorrect and may result from incorrectly evaluating only the numerator 3y-2.
+",Answer Steps (Algebra)
+ALG112,Linear Relationships & Functions,,The function h is defined by h(x)=5x. For what value of z does h(x)=15 ?,,Easy,3,5,20,75,A,"The correct answer is A. Substituting 15 for h(x) in the given equation yields 15=5x. Dividing the left- and right-hand sides of this equation by 5 yields x=3. Therefore, the value of x is 3 when h(z)=15.
+
+
+
+
+Choices B, C and D are incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG113,Linear Relationships & Functions,,The function f is defined by f(y)=-y+10. What is the value of f(0) ?,,Easy,-10,0,5,10,D,"Choice D is correct. The value of f(0) is found by substituting 0 for y in the function f. This yields: f(0)=-0+10, which can be rewritten as: f(0)=10
+
+Choice A is incorrect and may result from misinterpreting the equation as f(y)=y+(-10) instead of f(y)=-y+10.
+Choice B is incorrect. This is the value of y, not f(y).
+
+Choice C is incorrect and may result from calculation errors.
+",Answer Steps (Algebra)
+ALG114,Linear Relationships & Functions,,"h(y)=9y+6
+For the given linear function h, which table shows three values of y and their corresponding values of h(y) ?
+",,Easy,,,,,C,"Choice C is correct. Each of the tables shows the same three values of y:-1,0, and 1 . Substituting -1 for y in the given function yields h(-1)=9(-1)+6=-9+6=-3 , Therefore, when y=-1, the corresponding value of h(y) is -3 . Substituting 0 for y in the given function yields h(0)=9(0)+6=0+6=6, Therefore, when y=0, the corresponding value of h(y) is 6 . Substituting 1 for y in the given function yields h(1)=9(1)+6=9+6=15. Therefore, when y=1, the corresponding value of h(y) is 15. The table in Option C shows -3,6, and 15 as the corresponding values of h(y) for y-values of -1,0, and 1 , respectively.
+
+Choice A is incorrect. This table corresponds to the linear function h(y)=6y+9.
+
+Choice B is incorrect. This table corresponds to the linear function h(y)=6y.
+
+Choice D is incorrect. This table corresponds to the linear function h(y)=9y.
+",Answer Steps (Algebra)
+ALG115,Linear Relationships & Functions,,"As part of a chemistry experiment on condensation, Elijah measured the volume of a gas in a chamber over a period of time. The function g(y)=42-0.25y gives the estimated volume, in milliliters ( mL ), of the gas in the chamber y days after the start of the experiment. Which of the following is the best interpretation of 42 in this context?",,Easy,"The estimated volume, in mL, of the gas at the start of the experiment ","The estimated volume, in mL, of the gas at the end of the experiment ","The estimated change in the volume, in mL, of the gas each day",The estimated number of days for all of the gas to condense,A,"Choice A is correct. The function g(y)=42-0.25y gives the estimated volume, in milliliters ( mL ), of the gas in the chamber. In linear functions like g(y)=a+by,a represents the initial value of the dependent variable, and b represents the rate of change. Here, 42 represents the value of g(0). Therefore, 42 is the estimated volume, in mL , of the gas at the start of the experiment.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect. The estimated change in the volume, in mL , of the gas each day is 0.25 , not 42
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG116,Linear Relationships & Functions,,"g(y)=21 For the given linear function g, which table gives three values of z and their corresponding values of g(z) ?",,Medium,,,,,B,"Choice B is correct. For the given linear function g, g(y) must equal 21 for all values of y. Of the given choices, only choice B gives three values of y and their corresponding values of g(y) for the given linear function g.
+
+Choice A is incorrect and may result from conceptual errors. 
+Choice C is incorrect and may result from conceptual errors.
+Choice D is incorrect and may result from conceptual errors.
+",Answer Steps (Algebra)
+ALG117,Linear Relationships & Functions,,"A model estimates that a new sapling had a height of 28 centimeters at the time of planting and that it grew 0.4 centimeters each day for the first year. This model is expressed by the equation h(d)=x+yd, where h(d) is the predicted height, in centimeters, of the sapling d days after planting, and x and y are constants. What is the value of x ?",,Medium,0.4,11.2,28,70,C,"The correct answer is C . According to the model, the sapling was 28 centimeters tall at planting and grew 0.4 centimeters daily during its first year. The model is given by the equation h(d)=x+ yd where h(d) represents the height, in centimeters, of the sapling d days after planting, and x and y are constants. Consequently, x represents the initial height, in centimeters, of the sapling at planting, and y represents the daily growth rate, in centimeters, over the first year. Therefore, x is 28.
+
+Choice A is incorrect and may result from conceptual errors. 
+Choice B is incorrect and may result from conceptual errors.
+Choice D is incorrect and may result from conceptual errors.
+",Answer Steps (Algebra)
+ALG118,Linear Relationships & Functions,,"A group of students is organizing their school library. The equation below models the approximate number of books, y, that remain to be shelved x hours after the students began their task.
+
+y = 99 - 18x
+
+The graph of this equation in the xy-plane is a line. What is the best interpretation of the x-intercept in this context?
+",,Medium,The students will have shelved all the books in about 5.5 hours. ,The students have been shelving about 5.5 books per hour. ,The students have been shelving about 18 books per hour. ,The students started with 99 books to shelve.,A,"Choice A is correct. The x-intercept of the line with equation y = 99 - 18x can be found by substituting 0 for y and finding the value of x. When y = 0, x = 5.5, so the x-intercept is at (5.5, 0). Since y represents the number of books remaining to be shelved x hours after the students started working, it follows that the x-intercept refers to the students having no books remaining to be shelved after 5.5 hours. In other words, the students will have shelved all of the books after about 5.5 hours. 
+
+Choice B is incorrect and may result from incorrectly interpreting the value 5.5. 
+Choices C and D are incorrect and may result from misunderstanding the x-intercept. These statements are accurate but not directly relevant to the x-intercept.
+",Answer Steps (Algebra)
+ALG119,Linear Relationships & Functions,,"The starting sound level at a concert is 22.40 decibels (dB). For every foot a listener moves away from the speaker, the sound intensity decreases by 0.62 dB. What is the total sound intensity, in dB, experienced by a listener who is 20 feet farther from the speaker?",,Medium,0.44,10,22.4,34.8,B,"Choice B is correct. Initially, the sound level at the starting point is 22.40 dB. As the listener moves away from the speaker, the sound intensity decreases by 0.62 dB for each foot moved further. The total sound intensity at a distance of x feet from the starting point can be modeled by the expression 22.40 - 0.62x. Substituting 20 for x in this expression yields 22.40 - 0.62(20), or 10 dB. Therefore, the total sound intensity experienced by a listener who is 20 feet farther from the speaker is 10 dB. 
+
+Choice A is incorrect as it represents the rate of sound intensity increase per foot moved closer, not the total sound intensity.
+ 
+Choice C is incorrect as it represents the sound level at the starting point, not 105 feet closer. 
+
+Choice D is incorrect and may result from incorrectly adding 22.40 and 0.62(20) and not subtracting. 
+",Answer Steps (Algebra)
+ALG120,Linear Relationships & Functions,,The function g is defined by g(x) = 102-17x. What is the x-intercept of the graph of y = g(x) in the xy-plane?,,Medium,"(-6,0)","(-17,0)","(17,0)","(6,0)",D,"Choice D is correct. The given function g is a linear function. Therefore, the graph of y = g(x) in the xy-plane has one x-intercept at the point (k,0), where k is a constant. Substituting 0 for g(x) and k for x in the given function yields 0 = 102 - 17k. Subtracting 102 from both sides of this equation yields -102 = -17k. Dividing both sides of this equation by -17 yields 6 = k. Therefore, the x-intercept of the graph of y = g(x) in the xy-plane is (6,0). 
+
+Choice A is incorrect and may result from conceptual or calculation errors. 
+
+Choice B is incorrect and may result from conceptual or calculation errors. 
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG121,Linear Relationships & Functions,,"In the xy-plane, the graph of the linear function h contains the points (0,-8) and (3,10). Which equation defines h, where y = h(x)?",,Medium,h(x) = 2/3 x - 8,h(x) = 2/3x + 8 ,h(x) = 6x - 8,h(x) = 6x + 8,C,"Choice C is correct. In the xy-plane, the graph of a linear function can be written in the form h(x) = mx + b, where m represents the slope and (0,b) represents the y-intercept of the graph of y = h(x). It's given that the graph of the linear function h, where y = h(x), in the xy-plane contains the point (0,-8). Thus, b = -8. The slope of the graph of a line containing any two points (x1,y1) and (x2,y2) can be found using the slope formula, m = (y2 - y1) / (x2 - x1). Since it's given that the graph of the linear function h contains the points (0,-8) and (3,10), it follows that the slope of the graph of the line containing these points is m = (10 + 8) / (3 - 0), or m = 6. Substituting 6 for m and -8 for b in h(x) = mx + b yields h(x) = 6x - 8. 
+
+Choice A is incorrect. This function represents a graph with a slope of 2/3 and a y-intercept of (0,-8). 
+
+Choice B is incorrect. This function represents a graph with a slope of 2/3 and a y-intercept of (0,8). 
+
+Choice D is incorrect. This function represents a graph with a slope of 6 and a y-intercept of (0,8).
+",Answer Steps (Algebra)
+ALG122,Linear Relationships & Functions,,"The table shows the linear relationship between the number of servers, s, in a data center and the maximum number of concurrent users, u, that the system can handle:
+Which equation represents the linear relationship between s and u?
+",,Medium,41s - u = -12,41s - u = 12,41u - s = -12,41u - s = 12,A,"Choice A is correct. It's given that there is a linear relationship between the number of servers, s, in a data center and the maximum number of concurrent users, u, that the system can handle. It follows that this relationship can be represented by an equation of the form u=ms+b where m is the rate of change of u in this relationship and b is a constant. The rate of change of u in this relationship can be calculated by dividing the difference in any two values of u by the difference in the corresponding values of s. Using two pairs of values given in the table, the rate of change of u in this relationship is (299-94)/(7-2), or 41 . Substituting 41 for m in the equation u=ms+b yields u=41s+b. The value of b can be found by substituting any value of s and its corresponding value of u for s and u, respectively, in this equation. Substituting 10 for s and 422 for u yields 422=41(10)+b, or 422=410+b. Subtracting 410 from both sides of this equation yields 12=b. Substituting 12 for b in the equation u=41s+b yields u=41s+12. Subtracting 12 from both sides of this equation yields u-12=41s. Subtracting u from both sides of this equation yields -12=41s-u, or 41s-u=-12. 
+
+Choice B is incorrect and may result from conceptual or calculation errors. 
+
+Choice C is incorrect and may result from conceptual or calculation errors. 
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG123,Linear Relationships & Functions,,"For the linear function j, the graph of y=j(x) in the xy-plane passes through the points (2,-12) and (7,8). Which equation defines j ?",,Medium,j(x)=2x-10,j(x)=4x-20,j(x)=2x-12,j(x)=7x+8,B,"Choice B is correct. It's given that the graph of the linear function j, where y=j(x), in the xy -plane contains the points (2,-12) and (7,8). Thus, an equation defining j can be written in the form y= mx+b, where m represents the slope and (0,b) represents the y-intercept of the graph of y= j(x). The slope of the graph of a line containing any two points (x_1,y_1 ) and (x_2,y_2 ) can be found using the slope formula, m=(y_2-y_1 )/(x_2-x_1 ). Substituting(2,-12) and (7,8) for (x_1,y_1 ) and (x_2,y_2 ), respectively, in the slope formula yields m=(8+12)/(7-2), or m=4. Substituting 4 for m and (7,8) for (x,y) in the equation y=mx+b yields 8=(4)(7)+b, or 8=28+b. Subtracting 28 from each side of this equation yields -20=b. Substituting 4 for m and -20 for b in the equation y=mx+b yields y=4x-20. Since y=j(x), it follows that the equation that defines j is j(x)=4x-20.
+
+Choice A is incorrect. For this function, the graph of y=j(x) in the xy-plane would pass through (2,-6), not (2,-12), and (7,4), not (7,8).
+
+Choice C is incorrect. For this function, the graph of y=j(x) in the xy -plane would pass through (2,-8), not (2,-12), and (7,2), not (7,8).
+
+Choice D is incorrect. For this function, the graph of y=j(x) in the xy-plane would pass through (2,22), not (2,-12), and (7,57), not (7,8).
+",Answer Steps (Algebra)
+ALG124,Linear Relationships & Functions,,"The base fare for a taxi in a city is $250 for the first mile. For every additional 600 feet, the fare decreases by $1 due to a discount scheme for longer trips.
+
+Which of the following equations can be used to find the fare F, in dollars, for a trip that extends d feet beyond the first mile?
+",,Medium,F = 600 + d/250,F = 600 - d/250,F = 250 + d/600,F = 250 - d/600,D,"Choice D is correct. It is established that the base taxi fare starts at $250 for the first mile, and for every additional 600 feet beyond the first mile, the fare is reduced by $1. Hence, the change in the fare d feet beyond the initial mile can be expressed as -d/600. Incorporating this into the base fare provides the formula for the fare F in dollars for the distance traveled beyond the first mile: F = -d/600 + 250, or F = 250 - d/600.
+
+Choices A and B are incorrect as they may incorrectly use the base fare as a rate of change or confuse the rate of decrease with the starting fare. Choice C is incorrect because it suggests an increase in fare with distance, contrary to the given discount scheme.
+",Answer Steps (Algebra)
+ALG125,Linear Relationships & Functions,,"For the function g defined as g(y)=(15/8-y), what is the value of g(-4)-g(2) ?",,Medium,-9/4,23/4,6,8,C,"Choice C is correct. The value of g(-4)-g(2) can be calculated by finding the values of g(-4) and g(2). The value of g(-4) can be found by substituting -4 for y in the given function: g(-4)=(15/8+4). This equation can be rewritten as g(-4)=15/8+32/8, or 47/8. Then, the value of g(2) can be found by substituting 2 for y in the given function: g(2)=(15/8-2). This equation can be rewritten as g(2)=15/8-16/8, or -1/8. Therefore, g(-4)-g(2)=47/8-(-1/8), which is equivalent to 47/8+1/8=48/8 or 6. 
+
+Choice A is incorrect and may result from incorrectly finding the value of g(4)-g(2) rather than g(-4)-g(2).
+Choices B and D are incorrect and may result from incorrectly substituting values of y in the given function or making computational errors.
+",Answer Steps (Algebra)
+ALG126,Linear Relationships & Functions,,"The fee for hiring a steam cleaner for up to 15 days is $195 for the first day and $110 for each subsequent day. Which of the following equations gives the cost y, in dollars, of hiring the steam cleaner for x days, where x is a positive integer and x≤15?",,Hard,y=195x-110 ,y=195x+110,y=110x+195,y=110x+85,D,"Choice D is correct. It's given that the fee for hiring a steam cleaner for up to 15 days is $195 for the first day and $110 for each subsequent day. Therefore, the cost y, in dollars, for x days, where x≤15, is the sum of the fee for the first day, $195, and the fee for the additional x-1 days, $110(x-1). It follows that y=195+110(x-1), which is equivalent to y=195+110x-110, or z=110x+85. 
+
+Choice A is incorrect. This equation represents a situation where the fee for hiring a steam cleaner is $110 for the first day and $195 for each subsequent day. 
+
+Choice B is incorrect and may result from conceptual or calculation errors. 
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG127,Linear Relationships & Functions,,"F(z) = 5/9(z - 32) +273.15 The function F gives the temperature, in kelvins, that corresponds to a temperature of z degrees Fahrenheit. If a temperature increased by 6.3 degrees Fahrenheit, by how much did the temperature increase, in kelvins?",,Hard,3.5,35.5,258.85,1720.845,A,"
+Choice A is correct. It's given that the function F(z) = 5/9(z - 32) +273.15 converts temperatures from degrees Fahrenheit to kelvins. An increase of 6.3 degrees Fahrenheit in temperature means that the value of z increased by 6.3 degrees Fahrenheit. It follows that an increase in z by 6.3 results in an increase in F(z) by 5/9 * 6.3, or 3.5 kelvins. Thus, if the temperature rose by  6.3 degrees Fahrenheit, the increase in Kelvins is 3.5 kelvins.. 
+
+Choice B is incorrect and may result from conceptual or calculation errors. 
+
+Choice C is incorrect and may result from conceptual or calculation errors. 
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG128,Linear Relationships & Functions,,"
+The graph of the linear function y=g(x)+23 is depicted in the diagram. If a and b are positive constants, which equation could define g ? 
+",,Hard,g(x)=-b-ax ,g(x)=b-ax,g(x)= -b+ax ,g(x)=b+ax,A,"
+Choice A is correct. It's given that the graph of the linear function y=g(x)+23 is shown. This implies that the graph of y=g(x)+23 can be translated downward by 23 units to create the graph of y=g(x), and the y-coordinate of every point on the graph of y=g(x)+23 can be decreased by 23 to find the corresponding point on the graph of y=g(x). The y-intercept of the graph of y=g(x)+23 is (0,9). Translating the graph down by 23 units results in a y-intercept for the graph of y=g(x) at the point (0,9-23), or (0,-14). The graph of y=g(x)+23 slants downward from left to right, indicating that the slope is negative. The translation of a linear graph modifies its position but does not alter its slope. Thus, the slope of the graph of y=g(x) remains negative. The equation of a linear function g can be expressed in the form g(x)=b+mx, where b is the y-coordinate of the y-intercept and m is the slope of the graph. Given that a and b are positive constants, and both the y-coordinate of the y-intercept and the slope of the graph are negative, it follows that g(x)=-b-ax could define g. 
+
+Choice B is incorrect. This equation could define a linear function where the graph has a positive, not negative, y -intercept. 
+
+Choice C is incorrect. This equation could define a linear function where the graph has a positive, not negative, slope. 
+
+Choice D is incorrect. This equation could define a linear function where the graph has positive values for both the y-intercept and the slope.
+",Answer Steps (Algebra)
+ALG129,Linear Relationships & Functions,,"The functions p and q are defined as p(x)=7-3/2 x and q(x)=11+9x/2. If the function r is defined as r(x)=p(x)+q(x), what is the x-coordinate of the x-intercept of the graph of y= r(x) in the xy-plane?
+",,Hard,-6,-3,3,6,A,"The correct answer is A. It's given that the functions p and q are defined as p(x)=7-3/2 x and q(x)=11+9x/2. If the function r is defined as r(x)= p(x)+q(x), then substituting 7-3/2 x for p(x) and 11+9x/2 for q(x) in this function yields r(x)=7-3/2 x+11+9x/2 . This can be rewritten as r(x)=18+3x, showing a linear relationship. The x-intercept of a graph in the xy-plane is the point on the graph where y=0. The equation representing the graph of y=r(x) is y=3x+18. Substituting 0 for y in this equation yields 0=3x+18. Subtracting 18 from both sides of this equation yields -18=3x, or x=-6. Therefore, the x-coordinate of the x-intercept of the graph of y=r(x) in the xy-plane is -6.
+",Answer Steps (Algebra)
+ALG130,Linear Relationships & Functions,,"According to data from the National Utilities Commission, the average cost per megawatt-hour of electricity in a certain region from April 1, 2019, to July 1, 2019, is modeled by the function J(x), where J(x) is the average cost per megawatt-hour x months after January 1.
+J(x) = 3.12 - 0.22(x - 3)
+
+The constant 3.12 in this function estimates which of the following?
+",,Hard,The average monthly decrease in the cost per megawatt-hour,"The difference in the average cost per megawatt-hour from April 1, 2019, to July 1, 2019","The average cost per megawatt-hour on April 1, 2019","The average cost per megawatt-hour on July 1, 2019",D,"
+Choice D is correct. The constant 3.12 is a part of the model representing the average cost per megawatt-hour on a specific date rather than a rate of change. To determine what this price represents, find x where J(x) = 3.12, or 3.12 = 3.12 - 0.22(x - 3). Subtracting 3.12 from both sides results in 0 = -0.22(x - 3). Solving for x gives x - 3 = 0, hence x = 3. Thus, the average cost of electricity is $3.12 per megawatt-hour 3 months after April 1, 2019, which corresponds to July 1, 2019.
+
+Choice A is incorrect. The constant 3.12 represents a specific price, not the rate of change, which is indicated by the -0.22 coefficient. 
+Choice B is incorrect as it misunderstands the consultant's role. The difference in the average cost from April 1, 2019, to July 1, 2019, is calculated by J(3) - J(0) = 3.12 - 0.22(3 - 3) - (3.12 - 0.22(0 - 3)) = 3.12 - (3.12 + 0.66) = -0.66, not 3.12. 
+Choice C is incorrect because the average cost per megawatt-hour on April 1, 2019, is J(0) = 3.12 - 0.22(0 - 3) = 3.12 + 0.66 = 3.78, which differs from 3.12.
+",Answer Steps (Algebra)
+ALG131,Linear Relationships & Functions,,"For the quadratic function g, the table shows three values of y and their corresponding values of g(y). Function g is defined by g(y)=cy+d, where c and d are constants. What is the value of c-d? ",,Hard,-78,76,156,234,D,"Choice D is correct. The table gives that g(y)=0 when y=2. Substituting 0 for g(y) and 2 for y into the equation g(y)=cy+d yields 0=2c+d. Subtracting 2c from both sides of this equation yields d=-2c. 
+The table gives that g(y)=-78 when y=1. Substituting -2c for d, -78 for g(y), and 1 for y into the equation g(y)=cy+d yields -78=c(1)+-2c. Combining like terms yields -78=-c, or c=78.
+
+Since d=-2c, substituting 78 for c into this equation gives d=-2*78, which yields d=-156. Thus, the value of c-d can be written as 78-(-156), which is 234. 
+
+Choice A is incorrect. This is the value of c+d, not c-d.  
+Choice B is incorrect. This is the value of c-2, not c-d. 
+
+Choice C is incorrect. This is the value of 2c, not c-d.
+",Answer Steps (Algebra)
+ALG132,Linear Relationships & Functions,,"Water consumption in a particular city decreased from 5 million gallons in 2012 to 2.2 million gallons in 2021. Assuming that the water consumption decreased at a constant rate, which of the following linear functions y best models the consumption, in millions of gallons, x years after the year 2012?",,Hard,y(x) = 14/45 x + 5,y(x) = 11/45 x + 5,y(x) = -14/45 x + 5,y(x) = -11/45 x + 5,C,"Choice C is correct. It is assumed that the water consumption decreased at a constant rate. Therefore, the function y that best models the consumption x years after the year 2012 can be written as a linear function, y(x) = mx + b, where m is the rate of change of the water consumption and b is the water consumption, in millions of gallons, in the year 2012. Since there were 5 million gallons of water consumed in 2012, b = 5. The rate of change, m, can be calculated as (5 - 2.2) / (0 - 9) = -2.8 / 9, which is equivalent to -28/90 or -14/45 , the rate of change in choice C.
+
+Choices A and B are incorrect because each of these functions has a positive rate of change. Since the water consumption decreased over time, the rate of change must be negative. Choice D is incorrect. This model may result from misinterpreting 2.2 million gallons as the amount by which the consumption decreased.
+
+",Answer Steps (Algebra)
+ALG133,Linear Relationships & Functions,,"One gallon of sealant can cover 351 square feet of a surface. A deck has a total area of t square feet. Which equation represents the total amount of sealant R, in gallons, needed to coat the deck thrice?",,Hard,R = t / 117,R = 1053t,R = t / 351,R = 351t,A,"Choice A is correct. It's given that t represents the total deck area, in square feet. Since the deck will be coated thrice, the amount of sealant, in gallons, needs to cover 3t square feet. It's also given that one gallon of sealant can cover 351 square feet. Dividing the total area, in square feet, of the surface to be coated by the number of square feet covered by one gallon of sealant gives the number of gallons of sealant that will be needed. Dividing 3t by 351 yields 3t / 351, or t / 117. Therefore, the equation that represents the total amount of sealant R, in gallons, needed to coat the deck twice is R = t / 117.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from finding the amount of sealant needed to coat the deck once rather than thrice.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+
+",Answer Steps (Algebra)
+ALG134,Linear Relationships & Functions,,"H(y) = 9/5(y - 273.15) + 32
+The function H gives the temperature, in degrees Fahrenheit, that corresponds to a temperature of y kelvins. If a temperature increased by 3.50 kelvins, by how much did the temperature increase, in degrees Fahrenheit?
+",,Hard,6.3,63.3,735.9,795.9,A,"
+Choice A is correct. It's given that the function H(y) = 9/5(y - 273.15) + 32 gives the temperature, in degrees Fahrenheit, that corresponds to a temperature of y kelvins. A temperature increase by 3.50 kelvins means that the value of y increased by 3.50 kelvins. It follows that an increase in y by 3.50 increases H(y) by 9/5 × 3.50, or 6.30. Therefore, if a temperature increased by 3.50 kelvins, the temperature increased by 6.30 degrees Fahrenheit.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG135,Linear Relationships & Functions,,The table above shows some values of x and their corresponding values g(x) for the linear function g. What is the x-intercept of the graph of y=g(x) in the xy-plane?,,Hard,"(7,0)","(1,0)","(-1,0)","(-49,0)",B,"Choice B is correct. The equation of a linear function can be written in the form y=mx+b, where y=g(x), m is the slope of the graph of y=g(x), and b is the y-coordinate of the y-intercept of the graph. 
+The value of m can be found using the slope formula, m = (y2 - y1) / (x2 - x1). According to the table, the points (-6,49) and (-5,42) lie on the graph of y=g(x). Using these two points in the slope formula yields m = (42-49) / (-5+6), or -7. Substituting -7 for m in the slope-intercept form of the equation yields y = -7x + b. 
+
+The value of b can be found by substituting values from the table and solving; for example, substituting the coordinates of the point (-6,49) into the equation y = -7x + b gives 
+49 = -7(-6) + b, which yields b = 7. This means the function given by the table can be represented by the equation y = -7x + 7. The value of the x-intercept of the graph of y = g(x) can be determined by finding the value of x when y = 0. Substituting y = 0 into y = -7x + 7 yields 0 = -7x +7, or x = 1. This corresponds to the point (1,0).
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG136,Linear Relationships & Functions,,"Marcus used wires measuring 8 meters in length to install each light fixture in a new office building. The relationship between the number of fixtures that Marcus installed, x, and the total length of wire he used, y, in meters, is represented by the equation y - 8x = 12. What is the best interpretation of 12 in this context?",,Hard,Marcus installed 12 light fixtures.,Marcus used a total of 12 meters of wire.,Marcus cut a total of 12 meters of wire for installation.,Marcus had 12 meters more wire than needed for the installations.,D,"Choice D is correct. The equation y - 8x = 12 describes the relationship between the number of light fixtures Marcus installed, x, and the total length of wire he used, y, in meters. Solving this equation by isolating y gives y = 8x + 12. Here, 8x calculates the total length of wire used directly for the fixtures since each fixture requires 8 meters of wire. Therefore, y = 8x + 12 indicates that Marcus had 8x meters of wire for the fixtures and an additional 12 meters. The best interpretation of 12 in this context is that Marcus had 12 meters more wire than was necessary for the installations.
+
+Choice A is incorrect. Marcus installed a total of x light fixtures, not 12.
+
+Choice B is incorrect. Marcus used a total of y meters of wire, not just 12 meters.
+
+Choice C is incorrect. The total wire Marcus used for installations is represented by 8x meters, not just 12 meters.
+",Answer Steps (Algebra)
+ALG137,Linear Relationships & Functions,,"The table above lists the heat capacity and heat released per gram for three metals. Suppose a 390 kJ thermal energy change in a metal alloy results entirely from s grams of Silver, g grams of Gold, and u grams of Copper. Which of the following expressions correctly defines g in terms of s and u?
+",,Hard,g=30+(13/24)(s+u),g=30-(24/13)(s+u),g=30-(24/13)(s-u),g=30-(13/24)(s+u),B,"Choice B is correct. The given heat capacities are 24.0 J/g∘ C for Silver and Copper, and 13 J/9∘ C for Gold. 
+
+If a 390 kJ thermal energy change in a metal alloy results from s grams of Silver, g grams of Gold, and u grams of Copper, this can be represented by the equation 390=24s+13g+24u. This equation can be rewritten in terms of g by isolating it: subtract 24s and 24u from both sides of the equation, and then divide everything by 13 . This simplifies to g=30-(24/13)(s+u), indicating g grams of Gold in the alloy.
+
+Choices A, C, and D are incorrect and could result from incorrectly representing the heat capacity data or mismanaging the algebraic manipulation in terms of g.
+",Answer Steps (Algebra)
+ALG138,Linear Relationships & Functions,,"For the function y, if y(3x) = 31-x/3 for all values of x, what is the value of y(9)?",,Hard,3,28,30,31,C,"
+Choice C is correct. It's given that y(3x) = 31-x/3 for all values of x. If 3x = 9, then y(3x) will equal y(9). Dividing both sides of 3x = 9 by 3 gives x = 3. Therefore, substituting 3 for x in the given equation yields y(3×3) = 31 - 3/3, which can be rewritten as  y(9)= 31-1 or  y(9) = 30.
+
+Choice A is incorrect. This is the value of x that yields y(9) for the left-hand side of the given equation; it's not the value of y(9).
+Choice B is incorrect and may result from substituting x = 9, rather than x = 3, into the given equation.
+Choice D is incorrect. This is the value of the constant in the given equation for y.
+",Answer Steps (Algebra)
+ALG139,Linear Relationships & Functions,,"For tours of 30 or more participants, a botanical garden charges $25 per participant for the first 30 attendees and $18 for each additional attendee. Which function h gives the total charge, in dollars, for a group with n participants, where n ≥ 30?",,Hard,h(n) = 18n + 210,h(n) = 18n + 750,h(n) = 40n - 540,h(n) = 18n + 25,A,"Choice A is correct. A group with n participants, where n ≥ 30, can be divided into two segments: the first 30 attendees and the additional n - 30 attendees. Since the botanical garden charges $25 per participant for the first 30 attendees and $18 for each additional attendee, the charge for the first 30 attendees is $25 × 30, and the charge for the additional n - 30 attendees is $18 × (n - 30). Therefore, the total charge, in dollars, is given by the function h(n) = 25(30) + 18(n - 30), or h(n) = 18n + 210.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG140,Linear Relationships & Functions,,"A flagpole is supported by a cable. The formula h = 40 + 3t relates the height h, in meters, of the cable above the ground to the tension t, in kilograms, applied by the flag. Which of the following describes the meaning of the 3 in this context?",,Hard,"The height, in meters, of the cable with no tension applied","The tension, in kilograms, that will stretch the cable 40 meters","The increase in the tension, in kilograms, for each one-meter increase in the height of the cable","The increase in the height, in meters, of the cable for each one-kilogram increase in the tension applied by the flag",D,"Choice D is correct. The value 3 is multiplied by t, the tension applied by the flag. When the tension is 0, the height is 40 + 3(0) = 40 meters. If the tension increases by t kilograms, the height increases by 3t meters, or 3 meters for each one-kilogram increase in tension.
+
+Choice A is incorrect because this describes the value 40.
+
+Choice B is incorrect because 40 represents the height of the cable before it is stretched.
+
+Choice C is incorrect because it describes the value t.
+",Answer Steps (Algebra)
+ALG141,Linear Inequalities,,"Mason purchased two sets of colored pencils. In the first set, 25% of the pencils are blue, and in the second set, 75% of the pencils are blue. Combined, the sets contain at least 500 blue pencils. Which inequality shows this relationship, where x is the total number of pencils in the first set and y is the total number of pencils in the second set?",,Easy,0.25x+0.75y≥500,0.75x+0.25y≤500,x/2.5+y/7.5≤500,25x+75y≥500,A,"Choice A is correct. It is given that x is the total number of pencils in the first set and that 25% of those pencils are blue; therefore, the expression 0.25 x represents the number of blue pencils in the first set. It is given that y is the total number of pencils in the second set and that 75% of those pencils are blue; therefore, the expression 0.75y represents the number of blue pencils in the second set. It is also given that, together, the sets have at least 500 blue pencils, so the inequality that shows this relationship is 0.25x+0.75y≥500.
+
+Choice B is incorrect because it represents the sets having a total of at most, rather than at least, 500 blue pencils. Choice C is incorrect and may be the result of misunderstanding how to represent a percentage of pencils in each set. Also, the inequality shows the sets having a combined total of at most, rather than at least, 500 blue pencils. Choice D is incorrect because the percentages were not converted to decimals.
+",Answer Steps (Algebra)
+ALG142,Linear Inequalities,,"The total cost, in dollars, to rent a kayak consists of a $20 registration fee and a $12 per hour rental fee. A person rents a kayak for h hours and intends to spend a maximum of $80 to rent the kayak. Which inequality represents this situation?",,Easy,12h≤80,12+20h≤80,20h≤80,20+12h≤80,D,"Choice D is correct. The cost of the rental fee depends on the number of hours the kayak is rented. Multiplying h hours by $12 per hour yields a rental fee of 12h dollars. The total cost of the rental consists of the rental fee plus the $20 registration fee, which yields a total cost of 20+12h dollars. Since the person intends to spend a maximum of $80 to rent the kayak, the total cost must be at most $80. Therefore, the inequality 20+12h≤80 represents this situation.
+
+Choice A is incorrect. This represents a situation where the rental fee, not the total cost, is at most $80.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG143,Linear Inequalities,,"On a hiking trip, Max and Elena each walked for part of the journey, and the total distance they covered was less than 30 miles. Max walked at an average speed of 5 miles per hour (mph), and Elena walked at an average speed of 6 mph. Which of the following inequalities represents this situation, where m is the number of hours Max walked and e is the number of hours Elena walked?",,Easy,5m+6e>30,5m+6e<30,6m+5e>30,6m+5e<30,B,"Choice B is correct. It's given that Max walked at an average speed of 5 miles per hour and that he walked for m hours. Multiplying 5 miles per hour by m hours yields 5m miles, or the distance that Max walked. It's also given that Elena walked at an average speed of 6 miles per hour and that she walked for e hours. Multiplying 6 miles per hour by e hours yields 6e miles, or the distance that Elena walked. The total distance, in miles, that Max and Elena covered can be represented by the expression 5m+6e. It's given that the total distance they covered was under 30 miles. Therefore, the inequality 5m+6e<30 represents this situation.
+
+Choice A is incorrect. This inequality represents a situation in which the total distance Max and Elena covered was over, rather than under, 30 miles.
+
+Choice C is incorrect. This inequality represents a situation in which Max walked at an average speed of 6, rather than 5, miles per hour, Elena walked at an average speed of 5, rather than 6, miles per hour, and the total distance they covered was over, rather than under, 30 miles.
+
+Choice D is incorrect. This inequality represents a situation in which Max walked at an average speed of 6, rather than 5, miles per hour, and Elena walked at an average speed of 5, rather than 6, miles per hour.
+",Answer Steps (Algebra)
+ALG144,Linear Inequalities,,"Nina participated in three archery competitions, scoring 80, 75, and 95 points respectively. To achieve an overall average score of at least 85 across four competitions, which inequality must be solved to find the score, P, she needs in her fourth competition?",,Easy,85-(80+75+95)≤4P,4P+80+75+95≥340,(P+80+75+95)/4≥85,(80+75+95)/4≥85-4P,C,"Choice C is correct. The average score of the four competitions ( P,80,75, and 95 ) can be calculated as (P+80+75+95)/4. The inequality that indicates Nina needs an average score of at least 85 is therefore (P+80+75+95)/4≥85.
+
+Choice A is incorrect as it does not correctly represent the division by 4 needed to find the average score. Choice B is incorrect due to an algebraic error in considering the sum of all scores to meet the target average. Choice D is incorrect because it improperly omits P from the calculation of the mean score of all four competitions.
+",Answer Steps (Algebra)
+ALG145,Linear Inequalities,,"Mia set a goal to cycle at least 35 kilometers each day to train for a charity bike ride. On a particular day, Mia plans to cycle at an average speed of 7 kilometers per hour. What is the minimum number of hours Mia must cycle on that day to meet her daily goal?",,Easy,5,7,28,35,A,"Choice A is correct. It's given that Mia plans to cycle at an average speed of 7 kilometers per hour. The number of kilometers Mia will cycle is determined by the expression 7t, where t is the number of hours Mia cycles. The given goal of at least 35 kilometers means that the inequality 7t≥35 represents the situation. Dividing both sides of this inequality by 7 gives t≥5, which corresponds to a minimum of 5 hours Mia must cycle.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG146,Linear Inequalities,,"An electronics store is running a promotion on headphones and speakers. During the promotion, the price of each pair of headphones is $20 and the price of each speaker is $30. Max can spend at most $150 at the store. If Max buys h pairs of headphones and s speakers, which of the following must be true?
+
+",,Easy,20h+30s≤150,20h+30s≥150,30h+20s≤150,30h+20s≥150,A,"
+Choice A is correct. Since the price of each pair of headphones is $20 and Max buys h pairs, the expression 20h represents the amount Max spends on headphones. Since the price of each speaker is $30 and Max buys s speakers, the expression 30s represents the amount Max spends on speakers. Therefore, the sum 20h+30s represents the total amount Max spends at the store. Since Max can spend at most $150 at the store, the total amount he spends must be less than or equal to $150. Thus, 20h+30s≤150.
+
+Choice B is incorrect. This represents the situation in which Max spends at least, rather than at most, $150 at the store.
+Choice C is incorrect and may result from reversing the cost of headphones and that of speakers. Choice D is incorrect and may result from both reversing the cost of headphones and that of speakers and from representing a situation in which Max spends at least, rather than at most, $150 at the store.
+",Answer Steps (Algebra)
+ALG147,Linear Inequalities,,"Which of the following ordered pairs (x,y) satisfies the inequality 
+4x-3y<12 ?
+I. (1,2)
+II. (2,3)
+III. (5,2) 
+",,Easy,I only,II only,I and II only,II and III only,C,"Choice C is correct. Substituting (1,2) into the inequality gives 4(1)-3(2)<12, or 4-6<12, which simplifies to -2<12, a true statement. 
+Substituting ( 2,3 ) into the inequality gives 4(2)- 3(3)<12, or 8-9<12, which simplifies to -1<12, a true statement. 
+
+Substituting ( 5,2 ) into the inequality gives 4(5)-3(2)<12, or 20-6<12, which simplifies to 14<12, a false statement. 
+Therefore, (1,2) and (2,3) are the only ordered pairs shown that satisfy the given inequality.
+
+Choice A is incorrect because the ordered pair (2,3) also satisfies the inequality.
+
+Choice B is incorrect because the ordered pair (1,2) also satisfies the inequality.
+
+Choice D is incorrect because the ordered pair (5,2) does not satisfy the inequality.
+
+",Answer Steps (Algebra)
+ALG148,Linear Inequalities,,"A preschool is ordering x marker sets and y sketchpads for an art class. The school must order at least 15 items in total, but the total cost must not exceed $90. If marker sets cost $5 each and sketchpads cost $6 each, which of the following systems of inequalities models this situation?",,Easy,"x+y≥15
+5x+6y≤90","x+y≥15
+5x+6y≥90
+","5x+6y≤15
+x+y≥90
+","x+y≤15
+5x+6y≥90
+",A,"Choice A is correct. The total number of marker sets and sketchpads ordered is represented by x+ y. Since the school must order at least 15 items, it must be true that x+y≥15. 
+Each marker set costs $5; therefore, 5x represents the cost, in dollars, of x marker sets. Each sketchpad costs $6; therefore, 6y represents the cost, in dollars, of y sketchpads. It follows that the total cost for x marker sets and y sketchpads is 5x+6y. Since the total cost of the order must not exceed $90, it must also be true that 5x+6y≤90. Of the choices given, these inequalities are shown only in choice A.
+
+Choice B is incorrect. The second inequality incorrectly suggests that the total cost must be greater, not less than or equal to $90.
+Choice C is incorrect because it limits the cost by the minimum number of items and the number of items with the maximum cost.
+Choice D is incorrect because the first inequality incorrectly suggests that at most 15 items must be ordered, and the second inequality says that the total cost of the order must be at least, not at most, $90.
+",Answer Steps (Algebra)
+ALG149,Linear Inequalities,,"Lena plans to rent a conference room for a workshop. The room rental costs $50 per hour, and she must also pay a one-time administrative fee of $20. Lena wants to spend no more than $270 for the rental and the fee. If the conference room is available only for whole numbers of hours, what is the maximum number of hours for which Lena can rent the room?",,Easy,5,6,9,50,A,"The correct answer is A. The equation 50h+20≤270, where h is the number of hours the conference room has been rented, can be written to represent the situation. Subtracting 20 from both sides and then dividing by 50 yields h≤5. Since the conference room can be rented only for whole numbers of hours, the maximum number of hours for which Lena can rent the room is 5.
+
+Choices B, C and D are incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG150,Linear Inequalities,,"Hummingbirds can fly only with a body temperature of at least 60.0 degrees Fahrenheit (°F). If a hummingbird's body temperature is 57.2°F, what is the minimum increase needed in its body temperature, in °F, so that it can fly?",,Easy,1.5,2.8,4,5.3,B,"Choice B is correct. It's given that hummingbirds can fly only with a body temperature of at least 60.0 degrees Fahrenheit °F. Let x represent the minimum increase needed in the hummingbird's body temperature to fly. If the hummingbird's body temperature is 57.2° F, the inequality 57.2+x≥ 60.0 represents this situation. Subtracting 57.2 from both sides of this inequality yields x≥2.8. Therefore, if the hummingbird's body temperature is 57.2° F, the minimum increase needed in its body temperature, in  ∘ F, so that it can fly is 2.8.
+
+Choice A is incorrect. This is the minimum increase needed in body temperature if the hummingbird's body temperature is 58.5° F, not 57.2° F.
+
+Choice C is incorrect. This is the minimum increase needed in body temperature if the hummingbird's body temperature is 56.0° F, not 57.2° F.
+
+Choice D is incorrect. This is the minimum increase needed in body temperature if the hummingbird's body temperature is 54.7° F, not 57.2° F.
+",Answer Steps (Algebra)
+ALG151,Linear Inequalities,,"Dylan needs to hire at least 8 team members for a company project. The team members will include junior developers, who will be paid $700 per week, and senior developers, who will be paid $1,000 per week. His budget for paying the team members is no more than $9,600 per week. He must hire at least 2 junior developers and at least 1 senior developer. Which of the following systems of inequalities represents the conditions described if x is the number of junior developers and y is the number of senior developers?",,Medium,"700x+1,000y≥9,600
+x+y≤8
+x≥2
+y≥1
+","700x+1,000y≤9,600
+x+y≥8
+x≥2
+y≥1
+","700x+1,000y≥9,600
+x+y≥8
+x≤2
+y≤1
+","700x+1,000y≤9,600
+x+y≤8
+x≤2
+y≤1
+",B,"Choice B is correct. Dylan will hire x junior developers and y senior developers. Since he needs to hire at least 8 team members, this condition is represented as:
+x+y≥8 Each junior developer is paid $700 per week, and each senior developer is paid $1,000 per week. Dylan's budget is no more than $9,600 per week, which can be expressed as: 700x+1,000y≤9,600 
+Additionally, Dylan must hire at least 2 junior developers and at least 1 senior developer, which gives: x≥2 and y≥1 
+These conditions are represented in Choice B.
+
+Choices A and C are incorrect because the first condition (700x+1,000y≥9,600) implies Dylan can exceed his budget of $9,600.
+Choice D is incorrect because the inequality x+y≤8 represents a maximum of 8 team members, not at least 8 .
+",Answer Steps (Algebra)
+ALG152,Linear Inequalities,,"In a city park, the standard width of a bike rack space is at least 6.0 feet and no more than 8.0 feet. A park manager recently installed a bike rack along a straight curb that is 120 feet long and wants to determine the number of bike spaces, b, that could fit perpendicular to the curb, based on the standard width of a bike rack space. Which of the following describes all the possible values of b?",,Medium,20≤b≤120,6.0≤b≤8.0,15≤b≤120,15≤b≤20,D,"Choice D is correct. Placing the bike spaces with the minimum width of 6.0 feet gives the maximum possible number of bike spaces along the curb. This can be calculated as: 120÷6.0=20 
+Placing the bike spaces with the maximum width of 8.0 feet gives the minimum number of bike spaces along the curb. This can be calculated as: 120÷8.0=15 
+Therefore, if b is the number of bike spaces, the range of possible values for b is:
+15≤b≤20 
+
+Choices A and C are incorrect because they equate the curb's length to the number of bike spaces. Choice B is incorrect because it gives the range of possible widths for a bike rack space, not the number of spaces.
+",Answer Steps (Algebra)
+ALG153,Linear Inequalities,,"During a rainstorm in a certain city, the minimum rate of rainfall recorded was 0.8 inches per hour, and the maximum rate of rainfall recorded was 2.5 inches per hour. Which inequality is true for all values of r, where r represents a rate of rainfall, in inches per hour, recorded for this rainstorm?",,Medium,r≥3.0,r≥2.5,0≤r≤0.8,0.8≤r≤2.5,D,"Choice D is correct. It's given that during a rainstorm, the minimum rate of rainfall recorded was 0.8 inches per hour, and the maximum rate recorded was 2.5 inches per hour. It's also stated that r represents the rate of rainfall in inches per hour. This means that the rate of rainfall must be at least 0.8 inches per hour and at most 2.5 inches per hour, which can be expressed as: 0.8≤r≤2.5 
+
+Choices A, B and C are incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG154,Linear Inequalities,,"A van can carry a maximum weight of 6,200 pounds. During one trip, the van will transport a 250-pound generator as well as several boxes. Some of these boxes weigh 30 pounds each, and the others weigh 70 pounds each. Which inequality represents the possible combinations of the number of 30-pound boxes, x, and the number of 70-pound boxes, y, the van can carry during one trip if only the generator and the boxes are being hauled?",,Medium,"30x+70y≤5,950","30x+70y≥5,950","70x+30y≤6,200","70x+30y≥6,200",A,"Choice A is correct. It's given that the van can carry a maximum of 6,200 pounds. It's also stated that during one trip, the van will transport a 250 -pound generator as well as several boxes. To determine how much weight is available for the boxes, subtract the weight of the generator from the van's maximum capacity:
+6,200-250=5,950 pounds.
+Let x represent the number of 30 -pound boxes. The weight of the 30 -pound boxes is represented by: 30x.
+Let y represent the number of 70-pound boxes. The weight of the 70 -pound boxes is represented by: 70y.
+
+Therefore, the total weight of the boxes is: 30x+70y 
+
+Since the van can carry at most 5,950 pounds of boxes, the inequality becomes:
+30x+70y≤5,950 
+
+Choice B is incorrect. It incorrectly represents the scenario as a minimum weight requirement instead of a maximum.
+
+Choice C is incorrect because it reverses the weights of the boxes in the inequality.
+
+Choice D is incorrect for the same reason as Choice B: it represents a minimum weight instead of a maximum.
+",Answer Steps (Algebra)
+ALG155,Linear Inequalities,,"y<-5x+8 
+Which point (x,y) is a solution to the given inequality in the xy-plane?
+",,Medium,"(2,0)","(0,10)","(3,2)","(1,−3)",D,"Choice D is correct. For a point (x,y) to be a solution to the given inequality in the xy-plane, the value of the point's y-coordinate must be less than the value of -5x+8 where x is the value of the x-coordinate of the point. This is true of the point (1,-3) because -3<-5(1)+8, or -3<3. Therefore, the point (1,-3) is a solution to the given inequality.
+
+Choices A, B, and C are incorrect. None of these points are a solution to the given inequality because each point's y-coordinate is greater than the value of -5x+8 for the point's x-coordinate.
+",Answer Steps (Algebra)
+ALG156,Linear Inequalities,,"A certain baby hippo weighs 250 pounds at birth and gains more than 1.5 pounds but less than 2.5 pounds per day during its first year. Which of the following inequalities represents all possible weights w, in pounds, for the hippo 365 days after birth?",,Medium,375<w<625,615<w<980,547.5<w<912.5,"797.5<w<1,162.5",D,"Choice D is correct. It's given that the hippo weighs 250 pounds at birth and gains more than 1.5 pounds but less than 2.5 pounds per day during its first year. The inequality 250+1.5d<w< 250+2.5d represents this situation, where d is the number of days after birth. Substituting 365 for d in the inequality gives 250+1.5(365)<w<250+2.5(365), or 797.5<w<1,162.5. 
+
+Choice A is incorrect and may result from solving the inequality 250(1.5)<w<250 (2.5). 
+
+Choice B is incorrect and may result from solving the inequality for a weight range of more than 1 pound but less than 2 pounds: 250+1(365)<w<250+2(365).
+
+Choice C is incorrect and may result from calculating the possible weight gained by the hippo during the first year without adding the 250 pounds the hippo weighed at birth.
+
+",Answer Steps (Algebra)
+ALG157,Linear Inequalities,,"W=140s+70
+The formula above shows the relationship between the water flow rate W, in liters per minute, and the setting s on a particular irrigation controller. When s=0, the irrigation system is off, and no water flows. When s=1, the system is at its maximum capacity. It is advised that s be between 0.4 and 0.75 to ensure efficient watering without waste. Which of the following inequalities describes the recommended water flow rate range for this setting?
+",,Medium,126≤W≤175,112≤W≤126,70≤W≤175,70≤W≤112,A,"Choice A is correct. For optimal water usage, the irrigation controller setting s is recommended to be between 0.4 and 0.75. This means the water flow rate W, when set within these parameters, corresponds to these settings. Calculating for s=0.4, W=140(0.4)+70=126. For s=0.75, W=140(0.75)+70=175.
+
+Therefore, the inequality that correctly describes the optimal water flow rate for the recommended settings is:
+126≤W≤175
+
+Choice B is incorrect as it describes a water flow rate for 0.3≤s≤0.4.
+
+Choice C is too broad, covering the range from 0≤s≤0.75.
+
+Choice D covers a range too low for 0≤s≤0.3.
+",Answer Steps (Algebra)
+ALG158,Linear Inequalities,,"The average annual maintenance cost for a certain building is $5,112. The building manager plans to spend $30,000 to install an automated maintenance system. The manager estimates that the average annual maintenance cost will then be $3,237. Which of the following inequalities can be solved to find n, the number of years after installation at which the total amount of maintenance cost savings will exceed the installation cost?",,Medium,"30,000>(5,112−3,237)n
+","30,000<(5,112−3,237)n","30,000−5,112>3,237n","30,000>5,112n/3,237",B,"Choice B is correct. The savings each year from installing the automated maintenance system will be the average annual maintenance cost before the installation minus the average annual maintenance cost after the installation, which is (5,112-3,237) dollars. In n years, the savings will be (5,112-3,237)n dollars.
+Therefore, the inequality that can be solved to find the number of years after installation at which the total amount of maintenance cost savings will exceed (be greater than) the installation cost of $30,000 is:
+30,000<(5,112-3,237)n 
+
+Choice A is incorrect. It gives the number of years at which the total savings would be less than the installation cost.
+
+Choices C and D are incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG159,Linear Inequalities,,"A crane is used to lift a container if the combined weight of the container and the equipment inside is no more than 5,200 pounds. What is the maximum number of equipment units the crane can lift in a container with a weight of 600 pounds if each unit weighs 150 pounds?",,Medium,30,31,33,34,A,"Choice A is correct. It's given that the crane can lift a container if the combined weight of the container and the equipment inside is no more than 5,200 pounds. If the container has a weight of 600 pounds and each unit weighs 150 pounds, the expression 600+150e, where e is the number of equipment units, gives the combined weight of the container and the units. Since the combined weight must be no more than 5,200 pounds, the possible numbers of equipment units the crane can lift are given by the inequality: 600+150e≤5,200 
+Subtracting 600 from both sides yields: 150e≤4,600 
+Dividing both sides of this inequality by 150 gives: e≤4,600/150, or  e≤30.67 
+Since e must be a whole number, the maximum number of equipment units is the greatest whole number less than 30.67 , which is 30.
+
+Choice B is incorrect. Lifting the container and 31 equipment units would result in a combined weight of 5,250 pounds, exceeding the limit of 5,200 pounds.
+
+Choice C is incorrect. Lifting the container and 33 equipment units would result in a combined weight of 5,550 pounds, exceeding the limit of 5,200 pounds.
+
+Choice D is incorrect. Lifting the container and 34 equipment units would result in a combined weight of 5,700 pounds, exceeding the limit of 5,200 pounds.
+",Answer Steps (Algebra)
+ALG160,Linear Inequalities,,"A study estimates that migratory birds of the species Anser caerulescens fly 65 to 80 miles each day during their migration. Based on this estimate, which inequality represents the estimated total number of miles, y, a bird from the species Anser caerulescens could fly in 20 days of its migration?",,Medium,65+20≤y≤80+20,(65)(20)≤y≤(80)(20),65≤20+y≤80,65≤20y≤80,B,"Choice B is correct. The study estimates that migratory birds of the species Anser caerulescens fly 65 to 80 miles each day during their migration. If one bird flies 65 miles each day for 20 days, the total distance is represented as 65(20). Similarly, if the bird flies 80 miles each day for 20 days, the total distance is represented as 80(20). Therefore, the total number of miles, y, that the bird could fly in 20 days is given by the inequality:
+(65)(20)≤y≤(80)(20) 
+
+Choices A, C and D are incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG161,Linear Inequalities,,"Emma's market is a 15-minute walk or a 6-minute train ride away from her apartment. The train arrives once every 20 minutes, and the number of minutes, 
+w, that Emma waits for the train varies between 0 and 20. Which of the following inequalities gives the values of w for which it would be faster for Emma to walk to the market?
+",,Hard,w−6<15,w−6>15,w+6<15,w+6>15,D,"Choice D is correct. It is given that w represents the number of minutes Emma waits for the train. The total time it takes Emma to reach the market by train is the sum of the minutes w she waits for the train and the 6 minutes of the train ride; thus, this time, in minutes, is w+6. It is also given that the total amount of time it takes Emma to walk to the market is 15 minutes. Therefore, w+6>15 gives the values of w for which it would be faster for Emma to walk to the market.
+
+Choices A and B are incorrect because w-6 is not the total length of time for Emma to wait for and then take the train to the market.
+Choice C is incorrect because the inequality should be true when walking 15 minutes is faster than the time it takes Emma to wait for and ride the train, not less.
+",Answer Steps (Algebra)
+ALG162,Linear Inequalities,,"A catering service is ordering bags of rice and cans of beans from its supplier.
+The supplier will deliver no more than 500 pounds in a shipment. Each bag of rice weighs 8.5 pounds, and each can of beans weighs 7.3 pounds. The service wants to order at least three times as many bags of rice as cans of beans. Let r represent the number of bags of rice, and let b represent the number of cans of beans, where r and b are nonnegative integers. Which of the following systems of inequalities best represents this situation?
+",,Hard,"8.5r+7.3b≤500
+r≥3b
+","8.5r+7.3b≤500
+3r≥b
+","17r+7.3b≤500
+r≥3b
+","17r+7.3b≤500
+3r≥b
+",A,"Choice A is correct. The total weight in pounds of the shipment must not exceed 500 pounds. The total weight of rice and beans can be expressed as the weight of each bag of rice multiplied by the number of bags (8.5 r) plus the weight of each can of beans multiplied by the number of cans ( 7.3 b ). This gives the inequality:
+8.5r+7.3b≤500  Additionally, the service wants to order at least three times as many bags of rice as cans of beans, which is expressed as: r≥3b 
+
+Choice B is incorrect because it misrepresents the relationship between the quantities of rice and beans.
+
+Choice C is incorrect because the first inequality incorrectly doubles the weight of each bag of rice, which is 8.5 pounds, not 17 pounds.
+
+Choice D is incorrect for the same reason as C and additionally transposes the relationship between the quantities of rice and beans.
+",Answer Steps (Algebra)
+ALG163,Linear Inequalities,,"A gym offers a monthly membership for $110 that allows unlimited access to all facilities. Alternatively, customers can pay $2.00, $3.00, or $4.00 per visit, depending on the type of activity they choose. What is the minimum number of visits per month for which a monthly membership could cost less than paying for individual visits?",,Hard,27,28,36,55,B,"The correct answer is B. The minimum number of individual visits for which the cost of the monthly membership is less than the cost of individual visits can be found by assuming the maximum cost of an individual visit, $4.00.
+If v visits costing $4.00 each are made in one month, the inequality:
+110<4.00v represents this situation.
+Dividing both sides of the inequality by 4.00 yields: 27.5<v, which is equivalent to v>27.5.
+
+Since only a whole number of visits can occur, it follows that 28 is the minimum number of visits.
+Choices A, C and D are incorrect and may result from conceptual or calculation errors.
+",Answer Steps (Algebra)
+ALG164,Linear Inequalities,,"A consultant's total compensation consists of a base fee of b dollars per year, plus bonus earnings of 15% of the total projects the consultant completes during the year. This year, the consultant has a goal for the total compensation to be at least 2 times and at most 3 times the base fee. Which of the following inequalities represents all possible values of total project revenue p, in dollars, the consultant can generate this year to meet that goal?",,Hard,1b≤p≤2b,b/0.15 ≤p≤2b/0.15 ,2b≤p≤3b,2b/0.15 ≤p≤3b/0.15 ,B,"Choice B is correct. It's given that a consultant's total compensation consists of a base fee of b dollars per year plus bonus earnings of 15% of the total project revenue p generated during the year. The consultant's total compensation can be represented by the expression b+0.15p. It's also given that the consultant's goal is for the total compensation to be at least 2 times and at most 3 times the base fee, which can be expressed as 2b and 3b, respectively.
+This situation can be represented by the inequality: 2b≤b+0.15p≤3b 
+Subtracting b from each part of the inequality yields: 1b≤0.15p≤2b 
+Dividing each part of the inequality by 0.15 gives: 1/0.15 b≤p≤2/0.15 b 
+
+Choice A is incorrect because it represents a situation where the total project revenue, rather than the total compensation, is at least 1 times and at most 2 times the base fee.
+
+Choice C is incorrect because it represents a situation where the total project revenue is at least 2 times and at most 3 times the base fee.
+
+Choice D is incorrect because it represents a situation where the total compensation is at least 3 times and at most 4 times, rather than 2 times and at most 3 times, the base fee.
+",Answer Steps (Algebra)
+ALG165,Linear Inequalities,,"A number x is at most 5 less than 4 times the value of y. If the value of y is -3 , what is the greatest possible value of x ?",,Hard,-17,-7,17,19,A,"The correct answer is A . It's given that a number x is at most 5 less than 4 times the value of y. Therefore, x is less than or equal to 5 less than 4 times the value of y. The expression 4y represents 4 times the value of y. The expression 4y-5 represents 5 less than 4 times the value of y. Thus, x is less than or equal to 4y-5, which can be written as: x≤4y-5 
+Substituting -3 for y in this inequality gives: x≤4(-3)-5, or  x≤-17 
+
+Therefore, if the value of y is -3 , the greatest possible value of x is -17.
+Choices B, C and D are incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG166,Linear Inequalities,,"A party planner budgets $3,000 to purchase decorations. The planner must purchase a minimum of 250 decorations to maintain the discounted pricing.
+If the planner pays $5.50 per decoration for small items and $14.00 per decoration for large items, what is the maximum number of large items the planner can purchase to stay within the budget and maintain the discounted pricing?
+",,Hard,191,192,214,545,A,"The correct answer is A. Let s represent the number of small decorations the planner can purchase, and let l represent the number of large decorations the planner can purchase. It is given that the planner pays $5.50 per small decoration and $14.00 per large decoration. Therefore, the planner pays 5.50 s dollars for s small decorations and 14.00l dollars for l large decorations. The total cost of the decorations is represented as: 5.50s+14.00l 
+The planner budgets $3,000 for decorations, so: 5.50s+14.00l≤3,000 
+It is also given that the planner must purchase at least 250 decorations, so:
+s+l≥250 
+Rewriting s+l≥250, subtracting l from both sides gives: s≥250-l 
+Multiplying both sides by 5.50 gives: 5.50s≥5.50(250-l), or   5.50s≥1,375-5.50l.) 
+Adding 14.00l to both sides gives: 5.50s+14.00l≥1,375-5.50l+14.00l, or:  5.50s+14.00l≥1,375+8.50l.) 
+This inequality can be combined with 5.50s+14.00l≤3,000, resulting in:
+1,375+8.50l≤5.50s+14.00l≤3,000 
+From this, it follows that: 1,375+8.50l≤3,000 
+Subtracting 1,375 from both sides gives: 8.50l≤1,625 
+Dividing by 8.50 yields: l≤191.18 
+
+Since the number of large decorations must be a whole number, the maximum number of large decorations the planner can purchase is the largest whole number less than 191.18, which is 191.
+
+Choices B, C and D: Incorrect. These options may result from calculation errors or misinterpretation of the given data.
+",Answer Steps (Algebra)
+ALG167,Linear Inequalities,,"A marketing analyst conducted a study to observe consumer behavior when selecting products on a display. The study involved 400 participants who were presented with six products arranged in random order. Each participant was asked to select the most attractive product. Among the first 200 participants, 48 chose the first product in the display. From the remaining 200 participants, let q represent the number of people who chose the first product. If more than 25% of all participants selected the first product, which of the following inequalities best represents the possible values of q?",,Hard,"q > 0.25(400 − 48), where q ≤ 200","q > 0.25(400 + 48), where q ≤ 200","q − 48 > 0.25(400), where q ≤ 200","q + 48 > 0.25(400), where q ≤ 200",D,"Choice D is correct. Among the first 200 participants, 48 selected the first product, and among the remaining 200 participants, q people selected it. Thus, the proportion of participants who selected the first product is (48 + q)/400. Since more than 25% of all participants selected the first product, it follows that:
+(48 + q)/400 > 0.25. Multiplying both sides by 400 gives:
+q + 48 > 0.25(400). Since q represents the number of people among the remaining 200 participants, q ≤ 200.
+
+Choices A, B, and C are incorrect due to misinterpretations of the relationship between the number of participants and the given proportions or computational errors.
+",Answer Steps (Algebra)
+ALG168,Linear Inequalities,,"The formula T=P/R represents the efficiency of a water filtration system, where T is the flow rate in liters per second, P is the total pressure in Pascals, and R is the resistance in the system (in Pascals per second). A filtration system has a resistance of 400 Pascals per second, and the total pressure is provided by k pumps, each contributing 9 Pascals of pressure, for a total pressure of 9k Pascals. If the system's flow rate is to be no more than 0.3 liters per second, what is the greatest number, k, of pumps that can be used?",,Hard,13,14,148,12000,A,"The correct answer is A. For the given system, the resistance R is 400 Pascals per second, and the total pressure P generated by k pumps is 9k Pascals. It's also given that the flow rate T is to be no more than 0.3 liters per second, expressed as T<0.3. Using the formula T=P/R, substituting the values for P and R gives the inequality:
+9k/400<0.3. Multiplying both sides by 400 gives: 9k<120 Dividing both sides by 9 results in: k<13.33 
+
+Since k must be a whole number, the greatest value of k is 13.
+
+Choices B, C, and D are incorrect as they stem from conceptual misunderstandings or computational errors.
+
+",Answer Steps (Algebra)
+ALG169,Linear Inequalities,,"The triangle inequality theorem states that the sum of any two sides of a triangle must be greater than the length of the third side. If a triangle has side lengths of 8 and 15, which inequality represents the possible lengths, y, of the third side of the triangle?",,Hard,y<23,y>23,7<y<23,y<7 or y>23,C,"Choice C is correct. It's given that a triangle has side lengths of 8 and 15 , and y represents the length of the third side of the triangle. By the triangle inequality theorem, the sum of any two sides of a triangle must be greater than the length of the third side. Thus, the inequalities 8+y>15, 8+15>y, and 15+y>8 represent all possible values of y. Subtracting 8 from both sides of 8+y>15 gives y>15-8, or y>7.
+Adding 8 and 15 in 8+15>y gives 23>y, or y<23. Subtracting 15 from both sides of 15+y>8 gives y>8-15, or y>-7. Since all y-values satisfying y>7 also satisfy y>-7, it follows that y>7 and y<23 represent the possible values of y. Therefore, the inequality 7<y<23 represents the possible lengths of the third side.
+
+Choice A is incorrect because it gives the upper bound for y but does not include the lower bound.
+
+Choice B is incorrect and may result from conceptual or calculation errors.
+
+Choice D is incorrect and may result from conceptual or calculation errors.
+
+",Answer Steps (Algebra)
+ALG170,Linear Inequalities,,The inequality y < 5x + 3 is given. For which of the following tables are all the values of x and their corresponding values of y solutions to the given inequality?,,Hard,,,,,C,"Choice C is correct. All the tables in the choices have the same three values of x, so each of the three values of x can be substituted in the given inequality to compare the corresponding values of y in each of the tables.
+
+Substituting x = 2 in the given inequality yields y < 5(2) + 3, or y < 13. Therefore, when x = 2, the corresponding value of y must be less than 13.
+Substituting x = 4 in the given inequality yields y < 5(4) + 3, or y < 23. Therefore, when x = 4, the corresponding value of y must be less than 23.
+Substituting x = 6 in the given inequality yields y < 5(6) + 3, or y < 33. Therefore, when x = 6, the corresponding value of y must be less than 33.
+
+For the table in choice C:
+
+When x = 2, y = 12, which is less than 13.
+When x = 4, y = 22, which is less than 23.
+When x = 6, y = 32, which is less than 33.
+Thus, the table in choice C provides values of x and their corresponding y values that are all solutions to the inequality.
+
+Choice A: Incorrect. In choice A:
+
+y = 15 when x = 2, which is not less than 13.
+y = 23 when x = 4, which is not less than 23.
+y = 33 when x = 6, which is not less than 33.
+
+Choice B: Incorrect. In choice B:
+y = 28 when x = 4, which is not less than 23.
+
+Choice D: Incorrect. In choice D:
+
+y = 18 when x = 2, which is not less than 13.
+y = 28 when x = 4, which is not less than 23.
+y = 38 when x = 6, which is not less than 33.
+",Answer Steps (Algebra)
+ALG171,Linear Inequalities,,"y ≤ x + 5
+y ≥ -2x - 3
+Which point (x,y) is a solution to the given system of inequalities in the xy-plane?
+",,Hard," (−8,0)","(0,−8)","(0,8)","(8,0)",D,"Choice D is correct. A point (x,y) is a solution to a system of inequalities in the xy-plane if substituting the x-coordinate and the y-coordinate of the point for x and y, respectively, in each inequality makes both of the inequalities true.
+Substituting the x-coordinate and the y-coordinate of choice D, 8 and 0 , for x and y, respectively, in the first inequality in the given system, y≤x+5, yields 0≤8+5, or 0≤13, which is true. Substituting 8 for x and 0 for y in the second inequality in the given system, y≥-2x-3, yields 0≥-2(8)-3, or 0≥-16-3, which simplifies to 0≥-19, which is also true. Therefore, the point (8,0) is a solution to the given system of inequalities in the xy-plane.
+
+Choice A is incorrect. Substituting -8 for x and 0 for y in the inequality y≤x+5 yields 0≤-8+ 5 , or 0≤-3, which is not true.
+
+Choice B is incorrect. Substituting 0 for x and -8 for y in the inequality y≥-2x-3 yields -8≥ -2(0)-3, or -8≥-3, which is not true.
+
+Choice C is incorrect. Substituting 0 for x and 8 for y in the inequality y≤x+5 yields 8≤0+5, or 8≤5, which is not true.
+",Answer Steps (Algebra)
+ALG172,Linear Inequalities,,"A packaging company has specific restrictions on the dimensions of containers they allow for their premium service. For rectangular prism-shaped containers, the restriction states that the sum of the perimeter of the base of the container and the height cannot exceed 150 inches. The perimeter of the base is calculated using the width and length of the container. If the height of a container is 78 inches and its length is 3.5 times the width, which inequality represents the allowable width y, in inches, of the container?",,Hard,0<y≤8,0<y≤10,0<y≤11,0<y≤12,A,"Choice A is correct. If y is the width of the container in inches, then the length of the container is 3.5y inches. The perimeter of the base of the container is 2(3.5y+y), or 9y inches. The height of the container is given as 78 inches. According to the restriction, the sum of the perimeter of the base and the height must not exceed 150 inches.
+This can be expressed algebraically as: 9y+78≤150 
+Simplify the inequality: 9y≤72 
+Divide both sides by 9: y≤8
+Since y represents the width of the container, it must also be a positive number. Thus, the inequality 0 <y≤8 represents all the allowable values of y that satisfy the given condition.
+
+Choices B, C, and D: Incorrect. These options may result from calculation errors or misinterpretation of the given data.
+",Answer Steps (Algebra)
+ALG173,Linear Inequalities,,"y>3x+2
+3x>7
+Which of the following consists of the y-coordinates of all the points that satisfy the system of inequalities above?
+",,Hard,y>10 ,y>9 ,y>7/2 ,y>13/2,B,"Choice B is correct. Adding the same number from each side of an inequality gives an equivalent inequality. Hence, adding 2 from each side of the inequality 3x>7 gives 3x+2>9. So the given system of inequalities is equivalent to the system of inequalities y>3x+2 and 3x+2>9 , which can be rewritten as y>3x+2>9.
+Using the transitive property of inequalities, it follows that y>9.
+
+Choice A is incorrect because there are points with a y-coordinate less than 10 that satisfy the given system of inequalities. For example, (2.4,9.5) satisfies both inequalities.
+
+Choice C is incorrect. This may result from solving the inequality 3x>7 for x, then replacing x with y.
+
+Choice D is incorrect because this inequality allows y-values that are not the y-coordinate of any point that satisfies both inequalities. For example, y=7 is contained in the set y>13/2; however, if 7 is substituted into the first inequality for y, the result is x<3/2. This cannot be true because the second inequality gives x>7/3.
+
+",Answer Steps (Algebra)
+ALG174,Linear Inequalities,,"Ava is working this summer as part of a tutoring program. She earned $14 per hour for the first 8 hours she worked this week. Because of her excellent feedback from students, her program coordinator raised her pay to $16 per hour for the rest of the week. Ava saves 85% of her earnings each week. What is the least number of hours she must work the rest of the week to save at least $340 for the week?",,Hard,16,18,20,23,B,"Choice B is correct. Ava earned $14 per hour for the first 8 hours she worked, so she earned a total of 14×8=112 dollars for the first 8 hours she worked. For the rest of the week, Ava was paid at the rate of $16 per hour. Let k be the number of hours she will work for the rest of the week. The total of Ava's earnings, in dollars, for the week will be 16k+112. 
+
+She saves 85% of her earnings each week, so this week she will save 0.85(16k+112) dollars. The inequality 0.85(16k+112)≥340 represents the condition that she will save at least $340 for the week.
+Factoring 16 out of the expression 16k+112 gives 16(k+7). The product of 16 and 0.85 is 13.6, so the inequality can be rewritten as: 13.6(k+7)≥340 
+Dividing both sides of this inequality by 13.6 yields: k+7≥25 so  k≥18 
+Therefore, the least number of hours Ava must work the rest of the week is 18.
+
+Choice A is incorrect. If Ava worked 16 hours for the rest of the week, her total earnings for the week would be: 112+(16×16)=$368
+
+Since she saves only 85% of her earnings each week, she would save 0.85×368=$312.8, which is less than $340.
+
+
+Choices C and D are incorrect because Ava can save $340 by working fewer hours than 23 or 20 for the rest of the week.",Answer Steps (Algebra)
+ALG175,Linear Inequalities,,"A school principal plans to purchase the same type of desk for each of the 90 classrooms. The total budget to spend on these desks is $16,200, which includes a 6% sales tax. Which of the following is closest to the maximum possible price per desk, before sales tax, the principal could pay based on this budget?",,Hard,$153.47,$169.81,$180,$190.80,B,"Choice B is correct. It is given that the principal plans to purchase 90 desks. If z is the price per desk, the total price of purchasing 90 desks is 90z. It is also given that a 6% sales tax is included, which is equivalent to 90z multiplied by 1.06 , or 90(1.06)z. Since the total budget is $16,200, the inequality representing the situation is given by 90(1.06)z≤16,200. Dividing both sides of this inequality by 90(1.06) and rounding the result to two decimal places gives z≤169.81. To not exceed the budget, the maximum possible price per desk is $169.81.
+
+Choice A is incorrect and may result from conceptual or calculation errors.
+
+Choice C is incorrect. This is the maximum possible price per desk including sales tax, not the maximum possible price per desk before sales tax.
+
+Choice D is incorrect. This is the maximum possible price if the sales tax is added to the total budget, not the maximum possible price per desk before sales tax.
+",Answer Steps (Algebra)
